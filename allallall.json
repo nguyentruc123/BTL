@@ -1,0 +1,2827 @@
+{
+     "users": {
+    "user1": {
+      "userId": 1,
+      "email": "vuquynhtrang123@gmail.com",
+      "password": "123456@",
+      "role": "user",
+      "progress": {
+        "topicsLearned": 5,
+        "quizzesCompleted": 3,
+        "averageScore": 8.3,
+        "overallProgress": 60
+      }
+    },
+    "user2": {
+      "userId": 2,
+      "email": "phungthutrang123@gmail.com",
+      "password": "1234567@",
+      "role": "user",
+      "progress": {
+        "topicsLearned": 2,
+        "quizzesCompleted": 1,
+        "averageScore": 6.5,
+        "overallProgress": 25
+      }
+    },
+    "user3": {
+      "userId": 3,
+      "email": "nguyenminhtruc123@gmail.com",
+      "password": "12345678@",
+      "role": "user",
+      "progress": {
+        "topicsLearned": 8,
+        "quizzesCompleted": 5,
+        "averageScore": 9.2,
+        "overallProgress": 80
+      }
+    },
+    "user4": {
+      "userId": 4,
+      "email": "admin@gmail.com",
+      "password": "1234@",
+      "role": "admin"
+    }
+  },
+   
+    "topic": {
+        "topics": {
+            "daily": {
+                "topicId": "daily",
+                "title": "Daily",
+                "description": "Các hoạt động hằng ngày"
+            },
+            "emotions": {
+                "topicId": "emotions",
+                "title": "Emotions",
+                "description": "Trạng thái cảm xúc"
+            },
+            "technology": {
+                "topicId": "technology",
+                "title": "Technology",
+                "description": "Chủ đề về công nghệ"
+            },
+            "airport": {
+                "topicId": "airport",
+                "title": "Airport",
+                "description": "Từ vựng tại sân bay"
+            },
+            "shopping": {
+                "topicId": "shopping",
+                "title": "Shopping",
+                "description": "Từ vựng khi mua sắm"
+            },
+            "health": {
+                "topicId": "health",
+                "title": "Health",
+                "description": "Từ vựng liên quan sức khỏe"
+            },
+            "education": {
+                "topicId": "education",
+                "title": "Education",
+                "description": "Từ vựng giáo dục"
+            },
+            "jobs": {
+                "topicId": "jobs",
+                "title": "Jobs",
+                "description": "Công việc và nghề nghiệp"
+            },
+            "weather": {
+                "topicId": "weather",
+                "title": "Weather",
+                "description": "Thời tiết và khí hậu"
+            },
+            "environment": {
+                "topicId": "environment",
+                "title": "Environment",
+                "description": "Môi trường tự nhiên"
+            }
+        }
+    },
+    "vocabulary": [
+        {
+            "vocabId": 1,
+            "Topic": "daily",
+            "Word": "wake up",
+            "Pronounce": "/weɪk ʌp/",
+            "Meaning": "thức dậy",
+            "Example": "I wake up at 6 AM every day."
+        },
+        {
+            "vocabId": 2,
+            "Topic": "daily",
+            "Word": "brush",
+            "Pronounce": "/brʌʃ/",
+            "Meaning": "đánh (răng, tóc)",
+            "Example": "She brushes her teeth after breakfast."
+        },
+        {
+            "vocabId": 3,
+            "Topic": "daily",
+            "Word": "shower",
+            "Pronounce": "/ˈʃaʊ.ɚ/",
+            "Meaning": "tắm vòi sen",
+            "Example": "He takes a shower before work."
+        },
+        {
+            "vocabId": 4,
+            "Topic": "daily",
+            "Word": "get dressed",
+            "Pronounce": "/ɡɛt drɛst/",
+            "Meaning": "mặc quần áo",
+            "Example": "I get dressed quickly in the morning."
+        },
+        {
+            "vocabId": 5,
+            "Topic": "daily",
+            "Word": "have breakfast",
+            "Pronounce": "/hæv ˈbrek.fəst/",
+            "Meaning": "ăn sáng",
+            "Example": "They have breakfast at 7 AM."
+        },
+        {
+            "vocabId": 6,
+            "Topic": "daily",
+            "Word": "go to school",
+            "Pronounce": "/ɡoʊ tuː skuːl/",
+            "Meaning": "đi học",
+            "Example": " My sister goes to school by bus."
+        },
+        {
+            "vocabId": 7,
+            "Topic": "daily",
+            "Word": "study",
+            "Pronounce": "/ˈstʌd.i/",
+            "Meaning": "học",
+            "Example": "I study English every evening."
+        },
+        {
+            "vocabId": 8,
+            "Topic": "daily",
+            "Word": "do homework",
+            "Pronounce": "/duː ˈhoʊm.wɝːk/",
+            "Meaning": "làm bài tập về nhà",
+            "Example": "He always does his homework before dinner."
+        },
+        {
+            "vocabId": 9,
+            "Topic": "daily",
+            "Word": "have lunch",
+            "Pronounce": "/hæv lʌntʃ/",
+            "Meaning": "ăn trưa",
+            "Example": "We have lunch at the cafeteria."
+        },
+        {
+            "vocabId": 10,
+            "Topic": "daily",
+            "Word": "take a nap",
+            "Pronounce": "/teɪk ə næp/",
+            "Meaning": "ngủ trưa",
+            "Example": "I usually take a nap after lunch."
+        },
+        {
+            "vocabId": 11,
+            "Topic": "daily",
+            "Word": "watch TV",
+            "Pronounce": "/wɑːtʃ ˌtiːˈviː/",
+            "Meaning": "xem tivi",
+            "Example": "He watches TV in the evening."
+        },
+        {
+            "vocabId": 12,
+            "Topic": "daily",
+            "Word": "play games",
+            "Pronounce": "/pleɪ ɡeɪmz/",
+            "Meaning": "chơi trò chơi",
+            "Example": "The kids love to play games after school."
+        },
+        {
+            "vocabId": 13,
+            "Topic": "daily",
+            "Word": "have dinner",
+            "Pronounce": "/hæv ˈdɪn.ɚ/",
+            "Meaning": "ăn tối",
+            "Example": "We have dinner together at 7 PM."
+        },
+        {
+            "vocabId": 14,
+            "Topic": "daily",
+            "Word": "take a bath",
+            "Pronounce": "/teɪk ə bæθ/",
+            "Meaning": "tắm bồn",
+            "Example": "She takes a bath every night."
+        },
+        {
+            "vocabId": 15,
+            "Topic": "daily",
+            "Word": "go to bed",
+            "Pronounce": "/ɡoʊ tuː bɛd/",
+            "Meaning": "đi ngủ",
+            "Example": "I go to bed at 10 PM."
+        },
+        {
+            "vocabId": 16,
+            "Topic": "emotions ",
+            "Word": "sad",
+            "Pronounce": "/sæd/",
+            "Meaning": "buồn",
+            "Example": "She felt sad after watching the movie."
+        },
+        {
+            "vocabId": 17,
+            "Topic": "emotions ",
+            "Word": "scared",
+            "Pronounce": "/skeəd/",
+            "Meaning": "sợ hãi",
+            "Example": "I'm scared of the dark."
+        },
+        {
+            "vocabId": 18,
+            "Topic": "emotions ",
+            "Word": "angry",
+            "Pronounce": "/ˈæŋɡri/",
+            "Meaning": "tức giận",
+            "Example": "He was angry because they lied to him."
+        },
+        {
+            "vocabId": 19,
+            "Topic": "emotions ",
+            "Word": "anxious",
+            "Pronounce": "/ˈæŋkʃəs/",
+            "Meaning": "lo lắng",
+            "Example": "I'm feeling anxious about the test tomorrow."
+        },
+        {
+            "vocabId": 20,
+            "Topic": "emotions ",
+            "Word": "annoyed",
+            "Pronounce": "/əˈnɔɪd/",
+            "Meaning": "bực mình",
+            "Example": "She was annoyed by the loud music."
+        },
+        {
+            "vocabId": 21,
+            "Topic": "emotions ",
+            "Word": "appalled",
+            "Pronounce": "/əˈpɔːld/",
+            "Meaning": "rất sốc",
+            "Example": "I was appalled by his rude behavior."
+        },
+        {
+            "vocabId": 22,
+            "Topic": "emotions ",
+            "Word": "horrified",
+            "Pronounce": "/ˈhɒrɪfaɪd/",
+            "Meaning": "sợ hãi",
+            "Example": "She was horrified to see the accident."
+        },
+        {
+            "vocabId": 23,
+            "Topic": "emotions ",
+            "Word": "apprehensive",
+            "Pronounce": "/ˌæprɪˈhensɪv/",
+            "Meaning": "hơi lo lắng",
+            "Example": "He felt apprehensive about starting a new job."
+        },
+        {
+            "vocabId": 24,
+            "Topic": "emotions ",
+            "Word": "nervous",
+            "Pronounce": "/ˈnɜːvəs/",
+            "Meaning": "lo lắng",
+            "Example": "I'm nervous before speaking in public."
+        },
+        {
+            "vocabId": 25,
+            "Topic": "emotions ",
+            "Word": "arrogant",
+            "Pronounce": "/ˈærəɡənt/",
+            "Meaning": "kiêu ngạo",
+            "Example": "He sounded arrogant during the interview."
+        },
+        {
+            "vocabId": 26,
+            "Topic": "emotions ",
+            "Word": "unhappy",
+            "Pronounce": "/ʌnˈhæpi/",
+            "Meaning": "buồn",
+            "Example": "She was unhappy with the results."
+        },
+        {
+            "vocabId": 27,
+            "Topic": "emotions ",
+            "Word": "ashamed",
+            "Pronounce": "/əˈʃeɪmd/",
+            "Meaning": "xấu hổ",
+            "Example": "He felt ashamed of his actions."
+        },
+        {
+            "vocabId": 28,
+            "Topic": "emotions ",
+            "Word": "bewildered",
+            "Pronounce": "/bɪˈwɪldəd/",
+            "Meaning": "rất bối rối",
+            "Example": "I was bewildered by all the instructions."
+        },
+        {
+            "vocabId": 29,
+            "Topic": "emotions ",
+            "Word": "malicious",
+            "Pronounce": " /məˈlɪʃəs/",
+            "Meaning": "ác độc",
+            "Example": "That was a malicious comment."
+        },
+        {
+            "vocabId": 30,
+            "Topic": "emotions ",
+            "Word": "negative",
+            "Pronounce": " /ˈneɡətɪv/",
+            "Meaning": "tiêu cực, bi quan",
+            "Example": "He always has a negative attitude."
+        },
+        {
+            "vocabId": 31,
+            "Topic": "technology ",
+            "Word": "computer",
+            "Pronounce": "/kəmˈpjuː.tər/",
+            "Meaning": "Máy tính",
+            "Example": "I use a computer every day."
+        },
+        {
+            "vocabId": 32,
+            "Topic": "technology ",
+            "Word": "smartphone",
+            "Pronounce": "/ˈsmɑːt.fəʊn/",
+            "Meaning": "Điện thoại thông minh",
+            "Example": "She has a new smartphone."
+        },
+        {
+            "vocabId": 33,
+            "Topic": "technology ",
+            "Word": "tablet",
+            "Pronounce": "/ˈtæb.lət/",
+            "Meaning": "Máy tính bảng",
+            "Example": " He watches videos on his tablet."
+        },
+        {
+            "vocabId": 34,
+            "Topic": "technology ",
+            "Word": "network",
+            "Pronounce": "/ˈnet.wɜːk/",
+            "Meaning": "Mạng",
+            "Example": "The office has a fast network."
+        },
+        {
+            "vocabId": 35,
+            "Topic": "technology ",
+            "Word": "internet",
+            "Pronounce": "/ˈɪn.tə.net/",
+            "Meaning": "Mạng internet",
+            "Example": "I search for news on the internet."
+        },
+        {
+            "vocabId": 36,
+            "Topic": "technology ",
+            "Word": "software",
+            "Pronounce": "/ˈsɒft.weər/",
+            "Meaning": "Phần mềm",
+            "Example": "This software is easy to use."
+        },
+        {
+            "vocabId": 37,
+            "Topic": "technology ",
+            "Word": "hardware",
+            "Pronounce": "/ˈhɑːd.weər/",
+            "Meaning": "Phần cứng",
+            "Example": "My laptop’s hardware is very old."
+        },
+        {
+            "vocabId": 38,
+            "Topic": "technology ",
+            "Word": "app",
+            "Pronounce": "/æp/",
+            "Meaning": "Ứng dụng",
+            "Example": " I downloaded a music app."
+        },
+        {
+            "vocabId": 39,
+            "Topic": "technology ",
+            "Word": "browser",
+            "Pronounce": "/ˈbraʊ.zər/",
+            "Meaning": "Trình duyệt",
+            "Example": "Chrome is a popular browser."
+        },
+        {
+            "vocabId": 40,
+            "Topic": "technology ",
+            "Word": "website",
+            "Pronounce": "/ˈweb.saɪt/",
+            "Meaning": "Trang web",
+            "Example": "Visit our website for more info."
+        },
+        {
+            "vocabId": 41,
+            "Topic": "technology ",
+            "Word": "email",
+            "Pronounce": "/ˈiː.meɪl/",
+            "Meaning": "Thư điện tử",
+            "Example": "I sent you an email."
+        },
+        {
+            "vocabId": 42,
+            "Topic": "technology ",
+            "Word": "social media",
+            "Pronounce": "/ˌsəʊ.ʃəl ˈmiː.di.ə/",
+            "Meaning": "Mạng xã hội",
+            "Example": "He spends hours on social media."
+        },
+        {
+            "vocabId": 43,
+            "Topic": "technology ",
+            "Word": "artificial intelligence (AI)",
+            "Pronounce": "/ˌɑː.tɪˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns/",
+            "Meaning": "Trí tuệ nhân tạo",
+            "Example": "AI is used in many phones now."
+        },
+        {
+            "vocabId": 44,
+            "Topic": "technology ",
+            "Word": "internet of things (IoT)",
+            "Pronounce": "/ˈɪn.tə.net əv θɪŋz/",
+            "Meaning": "Internet vạn vật",
+            "Example": "IoT helps devices work together."
+        },
+        {
+            "vocabId": 45,
+            "Topic": "technology ",
+            "Word": "robot",
+            "Pronounce": "/ˈrəʊ.bɒt/",
+            "Meaning": "Rô-bốt",
+            "Example": "This robot can clean the floor."
+        },
+        {
+            "vocabId": 46,
+            "Topic": "airport",
+            "Word": "airport",
+            "Pronounce": "/ˈeə.pɔːt/",
+            "Meaning": "Sân bay",
+            "Example": "We arrived at the airport early."
+        },
+        {
+            "vocabId": 47,
+            "Topic": "airport",
+            "Word": "flight",
+            "Pronounce": "/flaɪt/",
+            "Meaning": "Chuyến bay",
+            "Example": "My flight is at 10 a.m."
+        },
+        {
+            "vocabId": 48,
+            "Topic": "airport",
+            "Word": "ticket",
+            "Pronounce": "/ˈtɪk.ɪt/",
+            "Meaning": "Vé",
+            "Example": "I bought a plane ticket online."
+        },
+        {
+            "vocabId": 49,
+            "Topic": "airport",
+            "Word": "gate",
+            "Pronounce": "/ɡeɪt/",
+            "Meaning": "Cửa ra máy bay",
+            "Example": "Our gate is number 5."
+        },
+        {
+            "vocabId": 50,
+            "Topic": "airport",
+            "Word": "boarding pass",
+            "Pronounce": "/ˈbɔː.dɪŋ ˌpɑːs/",
+            "Meaning": "Thẻ lên máy bay",
+            "Example": "Don’t lose your boarding pass."
+        },
+        {
+            "vocabId": 51,
+            "Topic": "airport",
+            "Word": "check-in",
+            "Pronounce": "/ˈtʃek.ɪn/",
+            "Meaning": "Làm thủ tục",
+            "Example": "We check in at the counter."
+        },
+        {
+            "vocabId": 52,
+            "Topic": "airport",
+            "Word": "baggage",
+            "Pronounce": "/ˈbæɡ.ɪdʒ/",
+            "Meaning": "Hành lý",
+            "Example": "I have two pieces of baggage."
+        },
+        {
+            "vocabId": 53,
+            "Topic": "airport",
+            "Word": "passport",
+            "Pronounce": "/ˈpɑːs.pɔːt/",
+            "Meaning": "Hộ chiếu",
+            "Example": "Show your passport to the officer."
+        },
+        {
+            "vocabId": 54,
+            "Topic": "airport",
+            "Word": "customs",
+            "Pronounce": "/ˈkʌs.təmz/",
+            "Meaning": "Hải quan",
+            "Example": "We passed through customs quickly."
+        },
+        {
+            "vocabId": 55,
+            "Topic": "airport",
+            "Word": "arrival",
+            "Pronounce": "/əˈraɪ.vəl/",
+            "Meaning": "Đến nơi",
+            "Example": "The arrival time is 3 p.m."
+        },
+        {
+            "vocabId": 56,
+            "Topic": "airport",
+            "Word": "departure",
+            "Pronounce": "/dɪˈpɑː.tʃər/",
+            "Meaning": "Khởi hành",
+            "Example": "Our departure is delayed."
+        },
+        {
+            "vocabId": 57,
+            "Topic": "airport",
+            "Word": "terminal",
+            "Pronounce": "/ˈtɜː.mɪ.nəl/",
+            "Meaning": "Nhà ga",
+            "Example": "Go to Terminal 2 for your flight."
+        },
+        {
+            "vocabId": 58,
+            "Topic": "airport",
+            "Word": "security",
+            "Pronounce": "/sɪˈkjʊə.rə.ti/",
+            "Meaning": "An ninh",
+            "Example": "Security checks your bag."
+        },
+        {
+            "vocabId": 59,
+            "Topic": "airport",
+            "Word": "lounge",
+            "Pronounce": "/laʊndʒ/",
+            "Meaning": "Phòng chờ",
+            "Example": "We waited in the lounge."
+        },
+        {
+            "vocabId": 60,
+            "Topic": "airport",
+            "Word": "airline",
+            "Pronounce": "/ˈeə.laɪn/",
+            "Meaning": "Hãng hàng không",
+            "Example": "Which airline do you fly with?"
+        },
+        {
+            "vocabId": 61,
+            "Topic": "shopping",
+            "Word": "buy",
+            "Pronounce": "/baɪ/",
+            "Meaning": "Mua",
+            "Example": "I want to buy a new shirt."
+        },
+        {
+            "vocabId": 62,
+            "Topic": "shopping",
+            "Word": "sell",
+            "Pronounce": "/sel/",
+            "Meaning": "Bán",
+            "Example": "They sell fresh fruit here."
+        },
+        {
+            "vocabId": 63,
+            "Topic": "shopping",
+            "Word": "shop",
+            "Pronounce": "/ʃɒp/",
+            "Meaning": "Cửa hàng",
+            "Example": "She goes to the shop every day."
+        },
+        {
+            "vocabId": 64,
+            "Topic": "shopping",
+            "Word": "supermarket",
+            "Pronounce": "/ˈsuː.pəˌmɑː.kɪt/",
+            "Meaning": "Siêu thị",
+            "Example": "We buy food at the supermarket."
+        },
+        {
+            "vocabId": 65,
+            "Topic": "shopping",
+            "Word": "market",
+            "Pronounce": "/ˈmɑː.kɪt/",
+            "Meaning": "Chợ",
+            "Example": "I bought fish at the market."
+        },
+        {
+            "vocabId": 66,
+            "Topic": "shopping",
+            "Word": "price",
+            "Pronounce": "/praɪs/",
+            "Meaning": "Giá",
+            "Example": "What’s the price of this bag?"
+        },
+        {
+            "vocabId": 67,
+            "Topic": "shopping",
+            "Word": "money",
+            "Pronounce": "/ˈmʌn.i/",
+            "Meaning": "Tiền",
+            "Example": "I don’t have enough money."
+        },
+        {
+            "vocabId": 68,
+            "Topic": "shopping",
+            "Word": "discount",
+            "Pronounce": "/ˈdɪs.kaʊnt/",
+            "Meaning": "Giảm giá",
+            "Example": "This shirt has a 20% discount."
+        },
+        {
+            "vocabId": 69,
+            "Topic": "shopping",
+            "Word": "pay",
+            "Pronounce": "/peɪ/",
+            "Meaning": "Thanh toán",
+            "Example": "I will pay by card."
+        },
+        {
+            "vocabId": 70,
+            "Topic": "shopping",
+            "Word": "goods",
+            "Pronounce": "/ɡʊdz/",
+            "Meaning": "Hàng hóa",
+            "Example": "The store sells many kinds of goods."
+        },
+        {
+            "vocabId": 71,
+            "Topic": "shopping",
+            "Word": "bag",
+            "Pronounce": "/bæɡ/",
+            "Meaning": "Túi",
+            "Example": "She puts the apples in a bag."
+        },
+        {
+            "vocabId": 72,
+            "Topic": "shopping",
+            "Word": "trolley",
+            "Pronounce": "/ˈtrɒl.i/",
+            "Meaning": "Xe đẩy",
+            "Example": "I pushed the trolley in the store."
+        },
+        {
+            "vocabId": 73,
+            "Topic": "shopping",
+            "Word": "staff",
+            "Pronounce": "/stɑːf/",
+            "Meaning": "Nhân viên",
+            "Example": "The staff were very helpful."
+        },
+        {
+            "vocabId": 74,
+            "Topic": "shopping",
+            "Word": "bill",
+            "Pronounce": "/bɪl/",
+            "Meaning": "Hóa đơn",
+            "Example": "Can I have the bill, please?"
+        },
+        {
+            "vocabId": 75,
+            "Topic": "shopping",
+            "Word": "item",
+            "Pronounce": "/ˈaɪ.təm/",
+            "Meaning": "Đồ (vật phẩm)",
+            "Example": "I bought five items today."
+        },
+        {
+            "vocabId": 76,
+            "Topic": "health",
+            "Word": "health",
+            "Pronounce": "/helθ/",
+            "Meaning": "Sức khỏe",
+            "Example": "Good health is very important."
+        },
+        {
+            "vocabId": 77,
+            "Topic": "health",
+            "Word": "healthy",
+            "Pronounce": "/ˈhel.θi/",
+            "Meaning": "Khỏe mạnh",
+            "Example": "She is a healthy person."
+        },
+        {
+            "vocabId": 78,
+            "Topic": "health",
+            "Word": "healthy eating",
+            "Pronounce": "/ˈhel.θi ˈiː.tɪŋ/",
+            "Meaning": "Ăn uống lành mạnh",
+            "Example": "Healthy eating helps you stay fit."
+        },
+        {
+            "vocabId": 79,
+            "Topic": "health",
+            "Word": "exercise",
+            "Pronounce": "/ˈek.sə.saɪz/",
+            "Meaning": "Tập thể dục",
+            "Example": "I exercise every morning."
+        },
+        {
+            "vocabId": 80,
+            "Topic": "health",
+            "Word": "balanced diet",
+            "Pronounce": "/ˈbæl.ənst ˈdaɪ.ət/",
+            "Meaning": "Chế độ ăn uống cân bằng",
+            "Example": "A balanced diet is good for your body."
+        },
+        {
+            "vocabId": 81,
+            "Topic": "health",
+            "Word": "get enough sleep",
+            "Pronounce": "/ɡet ɪˈnʌf sliːp/",
+            "Meaning": "Ngủ đủ giấc",
+            "Example": "You should get enough sleep every night."
+        },
+        {
+            "vocabId": 82,
+            "Topic": "health",
+            "Word": "water",
+            "Pronounce": "/ˈwɔː.tər/",
+            "Meaning": "Nước",
+            "Example": "Drink plenty of water daily."
+        },
+        {
+            "vocabId": 83,
+            "Topic": "health",
+            "Word": "vitamins",
+            "Pronounce": "/ˈvɪt.ə.mɪnz/",
+            "Meaning": "Vitamin",
+            "Example": "Fruits are full of vitamins."
+        },
+        {
+            "vocabId": 84,
+            "Topic": "health",
+            "Word": "minerals",
+            "Pronounce": "/ˈmɪn.ər.əlz/",
+            "Meaning": "Khoáng chất",
+            "Example": "Milk contains important minerals."
+        },
+        {
+            "vocabId": 85,
+            "Topic": "health",
+            "Word": "vegetables",
+            "Pronounce": "/ˈvedʒ.tə.bəlz/",
+            "Meaning": "Rau xanh",
+            "Example": "Eat more green vegetables."
+        },
+        {
+            "vocabId": 86,
+            "Topic": "health",
+            "Word": "fruits",
+            "Pronounce": "/fruːts/",
+            "Meaning": "Trái cây",
+            "Example": "I like to eat fresh fruits."
+        },
+        {
+            "vocabId": 87,
+            "Topic": "health",
+            "Word": "good sleep",
+            "Pronounce": "/ɡʊd sliːp/",
+            "Meaning": "Ngủ ngon",
+            "Example": "Good sleep makes you feel better."
+        },
+        {
+            "vocabId": 88,
+            "Topic": "health",
+            "Word": "physical activity",
+            "Pronounce": "/ˈfɪz.ɪ.kəl ækˈtɪv.ə.ti/",
+            "Meaning": "Hoạt động thể chất",
+            "Example": "Kids need more physical activity."
+        },
+        {
+            "vocabId": 89,
+            "Topic": "health",
+            "Word": "organic food",
+            "Pronounce": "/ɔːˈɡæn.ɪk fuːd/",
+            "Meaning": "Thực phẩm hữu cơ",
+            "Example": "Organic food is healthier."
+        },
+        {
+            "vocabId": 90,
+            "Topic": "health",
+            "Word": "avoid",
+            "Pronounce": "/əˈvɔɪd/",
+            "Meaning": "Tránh xa",
+            "Example": "Avoid junk food and soft drinks."
+        },
+        {
+            "vocabId": 91,
+            "Topic": "education",
+            "Word": "school",
+            "Pronounce": "/skuːl/",
+            "Meaning": "Trường học",
+            "Example": "I go to school every day."
+        },
+        {
+            "vocabId": 92,
+            "Topic": "education",
+            "Word": "classroom",
+            "Pronounce": "/ˈklɑːs.ruːm/",
+            "Meaning": "Lớp học",
+            "Example": "The classroom is very clean."
+        },
+        {
+            "vocabId": 93,
+            "Topic": "education",
+            "Word": "student",
+            "Pronounce": "/ˈstjuː.dənt/",
+            "Meaning": "Học sinh/Sinh viên",
+            "Example": "She is a good student."
+        },
+        {
+            "vocabId": 94,
+            "Topic": "education",
+            "Word": "teacher",
+            "Pronounce": "/ˈtiː.tʃər/",
+            "Meaning": "Giáo viên",
+            "Example": "My teacher is kind."
+        },
+        {
+            "vocabId": 95,
+            "Topic": "education",
+            "Word": "lesson",
+            "Pronounce": "/ˈles.ən/",
+            "Meaning": "Bài học",
+            "Example": "We have a math lesson today."
+        },
+        {
+            "vocabId": 96,
+            "Topic": "education",
+            "Word": "book",
+            "Pronounce": "/bʊk/",
+            "Meaning": "Sách",
+            "Example": "I read a book every night."
+        },
+        {
+            "vocabId": 97,
+            "Topic": "education",
+            "Word": "knowledge",
+            "Pronounce": "/ˈnɒ.lɪdʒ/",
+            "Meaning": "Kiến thức",
+            "Example": "Reading gives you more knowledge."
+        },
+        {
+            "vocabId": 98,
+            "Topic": "education",
+            "Word": "learning",
+            "Pronounce": "/ˈlɜː.nɪŋ/",
+            "Meaning": "Học tập",
+            "Example": "Learning is a lifelong journey."
+        },
+        {
+            "vocabId": 99,
+            "Topic": "education",
+            "Word": "grade",
+            "Pronounce": "/ɡreɪd/",
+            "Meaning": "Điểm số",
+            "Example": "She got a good grade in English."
+        },
+        {
+            "vocabId": 100,
+            "Topic": "education",
+            "Word": "university",
+            "Pronounce": "/ˌjuː.nɪˈvɜː.sə.ti/",
+            "Meaning": "Trường đại học",
+            "Example": "He studies at the university."
+        },
+        {
+            "vocabId": 101,
+            "Topic": "education",
+            "Word": "curriculum",
+            "Pronounce": "/kəˈrɪk.jə.ləm/",
+            "Meaning": "Chương trình học",
+            "Example": "The curriculum is very practical."
+        },
+        {
+            "vocabId": 102,
+            "Topic": "education",
+            "Word": "degree",
+            "Pronounce": "/dɪˈɡriː/",
+            "Meaning": "Bằng cấp",
+            "Example": "I want to get a degree in science."
+        },
+        {
+            "vocabId": 103,
+            "Topic": "education",
+            "Word": "exam",
+            "Pronounce": "/ɪɡˈzæm/",
+            "Meaning": "Bài kiểm tra",
+            "Example": "We have an exam next week."
+        },
+        {
+            "vocabId": 104,
+            "Topic": "education",
+            "Word": "library",
+            "Pronounce": "/ˈlaɪ.brər.i/",
+            "Meaning": "Thư viện",
+            "Example": "I study in the library."
+        },
+        {
+            "vocabId": 105,
+            "Topic": "education",
+            "Word": "lecture",
+            "Pronounce": "/ˈlek.tʃər/",
+            "Meaning": "Bài giảng",
+            "Example": "The lecture was very interesting."
+        },
+        {
+            "vocabId": 106,
+            "Topic": "jobs",
+            "Word": "teacher",
+            "Pronounce": "/ˈtiː.tʃər/",
+            "Meaning": "Giáo viên",
+            "Example": "My sister is a teacher."
+        },
+        {
+            "vocabId": 107,
+            "Topic": "jobs",
+            "Word": "doctor",
+            "Pronounce": "/ˈdɒk.tər/",
+            "Meaning": "Bác sĩ",
+            "Example": "The doctor works at the hospital."
+        },
+        {
+            "vocabId": 108,
+            "Topic": "jobs",
+            "Word": "nurse",
+            "Pronounce": "/nɜːs/",
+            "Meaning": "Y tá",
+            "Example": "The nurse is very kind."
+        },
+        {
+            "vocabId": 109,
+            "Topic": "jobs",
+            "Word": "engineer",
+            "Pronounce": "/ˌen.dʒɪˈnɪər/",
+            "Meaning": "Kỹ sư",
+            "Example": "My uncle is an engineer."
+        },
+        {
+            "vocabId": 110,
+            "Topic": "jobs",
+            "Word": "accountant",
+            "Pronounce": "/əˈkaʊn.tənt/",
+            "Meaning": "Kế toán",
+            "Example": "She works as an accountant."
+        },
+        {
+            "vocabId": 111,
+            "Topic": "jobs",
+            "Word": "farmer",
+            "Pronounce": "/ˈfɑː.mər/",
+            "Meaning": "Nông dân",
+            "Example": "The farmer grows rice."
+        },
+        {
+            "vocabId": 112,
+            "Topic": "jobs",
+            "Word": "baker",
+            "Pronounce": "/ˈbeɪ.kər/",
+            "Meaning": "Thợ làm bánh",
+            "Example": "The baker makes bread."
+        },
+        {
+            "vocabId": 113,
+            "Topic": "jobs",
+            "Word": "chef",
+            "Pronounce": "/ʃef/",
+            "Meaning": "Đầu bếp",
+            "Example": "He is a chef in a big hotel."
+        },
+        {
+            "vocabId": 114,
+            "Topic": "jobs",
+            "Word": "cashier",
+            "Pronounce": "/kæˈʃɪər/",
+            "Meaning": "Thu ngân",
+            "Example": "The cashier works in the store."
+        },
+        {
+            "vocabId": 115,
+            "Topic": "jobs",
+            "Word": "driver",
+            "Pronounce": "/ˈdraɪ.vər/",
+            "Meaning": "Lái xe",
+            "Example": "My father is a bus driver."
+        },
+        {
+            "vocabId": 116,
+            "Topic": "jobs",
+            "Word": "electrician",
+            "Pronounce": "/ɪˌlekˈtrɪʃ.ən/",
+            "Meaning": "Thợ điện",
+            "Example": "We need an electrician."
+        },
+        {
+            "vocabId": 117,
+            "Topic": "jobs",
+            "Word": "carpenter",
+            "Pronounce": "/ˈkɑː.pən.tər/",
+            "Meaning": "Thợ mộc",
+            "Example": "The carpenter made a new table."
+        },
+        {
+            "vocabId": 118,
+            "Topic": "jobs",
+            "Word": "builder",
+            "Pronounce": "/ˈbɪl.dər/",
+            "Meaning": "Thợ xây",
+            "Example": "The builder is building a house."
+        },
+        {
+            "vocabId": 119,
+            "Topic": "jobs",
+            "Word": "cleaner",
+            "Pronounce": "/ˈkliː.nər/",
+            "Meaning": "Lao công",
+            "Example": "The cleaner cleans the floor."
+        },
+        {
+            "vocabId": 120,
+            "Topic": "jobs",
+            "Word": "artist",
+            "Pronounce": "/ˈɑː.tɪst/",
+            "Meaning": "Họa sĩ",
+            "Example": "The artist paints beautiful art."
+        },
+        {
+            "vocabId": 121,
+            "Topic": "weather",
+            "Word": "rain",
+            "Pronounce": "/reɪn/",
+            "Meaning": "Mưa",
+            "Example": "It is raining outside."
+        },
+        {
+            "vocabId": 122,
+            "Topic": "weather",
+            "Word": "sun",
+            "Pronounce": "/sʌn/",
+            "Meaning": "Nắng",
+            "Example": "The sun is very bright today."
+        },
+        {
+            "vocabId": 123,
+            "Topic": "weather",
+            "Word": "wind",
+            "Pronounce": "/wɪnd/",
+            "Meaning": "Gió",
+            "Example": "The wind is blowing strongly."
+        },
+        {
+            "vocabId": 124,
+            "Topic": "weather",
+            "Word": "cloud",
+            "Pronounce": "/klaʊd/",
+            "Meaning": "Mây",
+            "Example": "There are many clouds in the sky."
+        },
+        {
+            "vocabId": 125,
+            "Topic": "weather",
+            "Word": "storm",
+            "Pronounce": "/stɔːm/",
+            "Meaning": "Bão",
+            "Example": "A big storm is coming."
+        },
+        {
+            "vocabId": 126,
+            "Topic": "weather",
+            "Word": "snow",
+            "Pronounce": "/snəʊ/",
+            "Meaning": "Tuyết",
+            "Example": "It is snowing in the mountains."
+        },
+        {
+            "vocabId": 127,
+            "Topic": "weather",
+            "Word": "fog",
+            "Pronounce": "/fɒɡ/",
+            "Meaning": "Sương mù",
+            "Example": "The fog is very thick today."
+        },
+        {
+            "vocabId": 128,
+            "Topic": "weather",
+            "Word": "cold",
+            "Pronounce": "/kəʊld/",
+            "Meaning": "Lạnh",
+            "Example": "It is cold in winter."
+        },
+        {
+            "vocabId": 129,
+            "Topic": "weather",
+            "Word": "hot",
+            "Pronounce": "/hɒt/",
+            "Meaning": "Nóng",
+            "Example": "It is hot in summer."
+        },
+        {
+            "vocabId": 130,
+            "Topic": "weather",
+            "Word": "humid",
+            "Pronounce": "/ˈhjuː.mɪd/",
+            "Meaning": "Ẩm",
+            "Example": "It is very humid today."
+        },
+        {
+            "vocabId": 131,
+            "Topic": "weather",
+            "Word": "dry",
+            "Pronounce": "/draɪ/",
+            "Meaning": "Khô",
+            "Example": "The weather is dry and sunny."
+        },
+        {
+            "vocabId": 132,
+            "Topic": "weather",
+            "Word": "shower",
+            "Pronounce": "/ˈʃaʊ.ər/",
+            "Meaning": "Mưa rào",
+            "Example": "There was a short shower at noon."
+        },
+        {
+            "vocabId": 133,
+            "Topic": "weather",
+            "Word": "rainbow",
+            "Pronounce": "/ˈreɪn.bəʊ/",
+            "Meaning": "Cầu vồng",
+            "Example": "I saw a rainbow after the rain."
+        },
+        {
+            "vocabId": 134,
+            "Topic": "weather",
+            "Word": "thunder",
+            "Pronounce": "/ˈθʌn.dər/",
+            "Meaning": "Sấm",
+            "Example": "I heard thunder last night."
+        },
+        {
+            "vocabId": 135,
+            "Topic": "weather",
+            "Word": "lightning",
+            "Pronounce": "/ˈlaɪt.nɪŋ/",
+            "Meaning": "Chớp",
+            "Example": "Lightning flashed across the sky."
+        },
+        {
+            "vocabId": 136,
+            "Topic": "environment",
+            "Word": "environment",
+            "Pronounce": "/ɪnˈvaɪ.rən.mənt/",
+            "Meaning": "Môi trường",
+            "Example": "We must protect the environment."
+        },
+        {
+            "vocabId": 137,
+            "Topic": "environment",
+            "Word": "pollution",
+            "Pronounce": "/pəˈluː.ʃən/",
+            "Meaning": "Ô nhiễm",
+            "Example": "Pollution is a big problem today."
+        },
+        {
+            "vocabId": 138,
+            "Topic": "environment",
+            "Word": "recycle",
+            "Pronounce": "/ˌriːˈsaɪ.kəl/",
+            "Meaning": "Tái chế",
+            "Example": " We should recycle plastic bottles."
+        },
+        {
+            "vocabId": 139,
+            "Topic": "environment",
+            "Word": "pollute",
+            "Pronounce": "/pəˈluːt/",
+            "Meaning": "Gây ô nhiễm",
+            "Example": "Factories pollute the air."
+        },
+        {
+            "vocabId": 140,
+            "Topic": "environment",
+            "Word": "eco-friendly",
+            "Pronounce": "/ˌiː.kəʊˈfrend.li/",
+            "Meaning": "Thân thiện với môi trường",
+            "Example": "We use eco-friendly bags."
+        },
+        {
+            "vocabId": 141,
+            "Topic": "environment",
+            "Word": "biodiversity",
+            "Pronounce": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+            "Meaning": "Đa dạng sinh học",
+            "Example": "The forest has rich biodiversity."
+        },
+        {
+            "vocabId": 142,
+            "Topic": "environment",
+            "Word": "waste",
+            "Pronounce": "/weɪst/",
+            "Meaning": "Rác thải",
+            "Example": " Don't throw waste into the river."
+        },
+        {
+            "vocabId": 143,
+            "Topic": "environment",
+            "Word": "sustainable",
+            "Pronounce": "/səˈsteɪ.nə.bəl/",
+            "Meaning": "Bền vững",
+            "Example": "We need sustainable energy sources."
+        },
+        {
+            "vocabId": 144,
+            "Topic": "environment",
+            "Word": "toxic",
+            "Pronounce": "/ˈtɒk.sɪk/",
+            "Meaning": "Độc hại",
+            "Example": "This water is toxic."
+        },
+        {
+            "vocabId": 145,
+            "Topic": " environment",
+            "Word": "contaminate",
+            "Pronounce": "/kənˈtæm.ɪ.neɪt/",
+            "Meaning": "Làm nhiễm bẩn",
+            "Example": "Chemicals can contaminate water."
+        },
+        {
+            "vocabId": 146,
+            "Topic": "environment",
+            "Word": "air pollution",
+            "Pronounce": "/eə pəˈluː.ʃən/",
+            "Meaning": "Ô nhiễm không khí",
+            "Example": "Air pollution affects our health."
+        },
+        {
+            "vocabId": 147,
+            "Topic": "environment",
+            "Word": "protect",
+            "Pronounce": "/prəˈtekt/",
+            "Meaning": "Bảo vệ",
+            "Example": "We must protect endangered animals."
+        },
+        {
+            "vocabId": 148,
+            "Topic": "environment",
+            "Word": "greenhouse effect",
+            "Pronounce": "/ˈɡriːn.haʊs ɪˌfekt/",
+            "Meaning": "Hiệu ứng nhà kính",
+            "Example": "The greenhouse effect warms the Earth."
+        },
+        {
+            "vocabId": 149,
+            "Topic": "environment",
+            "Word": "contaminated",
+            "Pronounce": "/kənˈtæm.ɪ.neɪ.tɪd/",
+            "Meaning": "Bị nhiễm bẩn",
+            "Example": "The river is contaminated."
+        },
+        {
+            "vocabId": 150,
+            "Topic": "environment",
+            "Word": "conserve",
+            "Pronounce": "/kənˈsɜːv/",
+            "Meaning": "Bảo tồn",
+            "Example": "We should conserve water and energy."
+        }
+    ],
+    "quiz": [
+        {
+            "userId": 1,
+            "topic": "Daily",
+            "score": 5,
+            "totalQuestions": 15,
+            "correctAnswers": 5,
+            "wrongAnswers": 10,
+            "timestamp": "2025-06-10 18:00:54",
+            "durationSeconds": 210
+        },
+        {
+            "userId": 1,
+            "topic": "Emotions",
+            "score": 6,
+            "totalQuestions": 15,
+            "correctAnswers": 6,
+            "wrongAnswers": 9,
+            "timestamp": "2025-06-11 09:55:39",
+            "durationSeconds": 255
+        },
+        {
+            "userId": 1,
+            "topic": "Technology",
+            "score": 3,
+            "totalQuestions": 15,
+            "correctAnswers": 3,
+            "wrongAnswers": 12,
+            "timestamp": "2025-06-12 14:00:03",
+            "durationSeconds": 33
+        },
+        {
+            "userId": 1,
+            "topic": "Airport",
+            "score": 10,
+            "totalQuestions": 15,
+            "correctAnswers": 10,
+            "wrongAnswers": 5,
+            "timestamp": "2025-06-13 20:54:00",
+            "durationSeconds": 138
+        },
+        {
+            "userId": 1,
+            "topic": "Shopping",
+            "score": 15,
+            "totalQuestions": 15,
+            "correctAnswers": 15,
+            "wrongAnswers": 0,
+            "timestamp": "2025-06-14 10:33:21",
+            "durationSeconds": 152
+        },
+        {
+            "userId": 1,
+            "topic": "Health",
+            "score": 14,
+            "totalQuestions": 15,
+            "correctAnswers": 14,
+            "wrongAnswers": 1,
+            "timestamp": "2025-06-15 15:03:23",
+            "durationSeconds": 235
+        },
+        {
+            "userId": 1,
+            "topic": "Education",
+            "score": 9,
+            "totalQuestions": 15,
+            "correctAnswers": 9,
+            "wrongAnswers": 6,
+            "timestamp": "2025-06-16 16:34:49",
+            "durationSeconds": 65
+        },
+        {
+            "userId": 1,
+            "topic": "Jobs",
+            "score": 11,
+            "totalQuestions": 15,
+            "correctAnswers": 11,
+            "wrongAnswers": 4,
+            "timestamp": "2025-06-17 11:47:20",
+            "durationSeconds": 262
+        },
+        {
+            "userId": 1,
+            "topic": "Weather",
+            "score": 7,
+            "totalQuestions": 15,
+            "correctAnswers": 7,
+            "wrongAnswers": 8,
+            "timestamp": "2025-06-18 12:04:41",
+            "durationSeconds": 201
+        },
+        {
+            "userId": 1,
+            "topic": "Environment",
+            "score": 10,
+            "totalQuestions": 15,
+            "correctAnswers": 10,
+            "wrongAnswers": 5,
+            "timestamp": "2025-06-19 11:14:12",
+            "durationSeconds": 34
+        },
+        {
+            "userId": 2,
+            "topic": "Daily",
+            "score": 3,
+            "totalQuestions": 15,
+            "correctAnswers": 3,
+            "wrongAnswers": 12,
+            "timestamp": "2025-06-10 16:13:01",
+            "durationSeconds": 52
+        },
+        {
+            "userId": 2,
+            "topic": "Emotions",
+            "score": 4,
+            "totalQuestions": 15,
+            "correctAnswers": 4,
+            "wrongAnswers": 11,
+            "timestamp": "2025-06-11 20:24:08",
+            "durationSeconds": 261
+        },
+        {
+            "userId": 2,
+            "topic": "Technology",
+            "score": 15,
+            "totalQuestions": 15,
+            "correctAnswers": 15,
+            "wrongAnswers": 0,
+            "timestamp": "2025-06-12 08:13:51",
+            "durationSeconds": 41
+        },
+        {
+            "userId": 2,
+            "topic": "Airport",
+            "score": 10,
+            "totalQuestions": 15,
+            "correctAnswers": 10,
+            "wrongAnswers": 5,
+            "timestamp": "2025-06-13 18:33:31",
+            "durationSeconds": 90
+        },
+        {
+            "userId": 2,
+            "topic": "Shopping",
+            "score": 10,
+            "totalQuestions": 15,
+            "correctAnswers": 10,
+            "wrongAnswers": 5,
+            "timestamp": "2025-06-14 16:09:00",
+            "durationSeconds": 283
+        },
+        {
+            "userId": 2,
+            "topic": "Health",
+            "score": 1,
+            "totalQuestions": 15,
+            "correctAnswers": 1,
+            "wrongAnswers": 14,
+            "timestamp": "2025-06-15 19:07:15",
+            "durationSeconds": 37
+        },
+        {
+            "userId": 2,
+            "topic": "Education",
+            "score": 3,
+            "totalQuestions": 15,
+            "correctAnswers": 3,
+            "wrongAnswers": 12,
+            "timestamp": "2025-06-16 16:17:38",
+            "durationSeconds": 74
+        },
+        {
+            "userId": 2,
+            "topic": "Jobs",
+            "score": 7,
+            "totalQuestions": 15,
+            "correctAnswers": 7,
+            "wrongAnswers": 8,
+            "timestamp": "2025-06-17 20:44:41",
+            "durationSeconds": 109
+        },
+        {
+            "userId": 2,
+            "topic": "Weather",
+            "score": 0,
+            "totalQuestions": 15,
+            "correctAnswers": 0,
+            "wrongAnswers": 15,
+            "timestamp": "2025-06-18 20:12:03",
+            "durationSeconds": 237
+        },
+        {
+            "userId": 2,
+            "topic": "Environment",
+            "score": 8,
+            "totalQuestions": 15,
+            "correctAnswers": 8,
+            "wrongAnswers": 7,
+            "timestamp": "2025-06-19 11:07:43",
+            "durationSeconds": 180
+        },
+        {
+            "userId": 3,
+            "topic": "Daily",
+            "score": 5,
+            "totalQuestions": 15,
+            "correctAnswers": 5,
+            "wrongAnswers": 10,
+            "timestamp": "2025-06-10 14:16:18",
+            "durationSeconds": 152
+        },
+        {
+            "userId": 3,
+            "topic": "Emotions",
+            "score": 1,
+            "totalQuestions": 15,
+            "correctAnswers": 1,
+            "wrongAnswers": 14,
+            "timestamp": "2025-06-11 14:17:18",
+            "durationSeconds": 188
+        },
+        {
+            "userId": 3,
+            "topic": "Technology",
+            "score": 6,
+            "totalQuestions": 15,
+            "correctAnswers": 6,
+            "wrongAnswers": 9,
+            "timestamp": "2025-06-12 20:01:56",
+            "durationSeconds": 283
+        },
+        {
+            "userId": 3,
+            "topic": "Airport",
+            "score": 14,
+            "totalQuestions": 15,
+            "correctAnswers": 14,
+            "wrongAnswers": 1,
+            "timestamp": "2025-06-13 18:11:15",
+            "durationSeconds": 283
+        },
+        {
+            "userId": 3,
+            "topic": "Shopping",
+            "score": 5,
+            "totalQuestions": 15,
+            "correctAnswers": 5,
+            "wrongAnswers": 10,
+            "timestamp": "2025-06-14 16:19:12",
+            "durationSeconds": 186
+        },
+        {
+            "userId": 3,
+            "topic": "Health",
+            "score": 6,
+            "totalQuestions": 15,
+            "correctAnswers": 6,
+            "wrongAnswers": 9,
+            "timestamp": "2025-06-15 11:49:55",
+            "durationSeconds": 164
+        },
+        {
+            "userId": 3,
+            "topic": "Education",
+            "score": 1,
+            "totalQuestions": 15,
+            "correctAnswers": 1,
+            "wrongAnswers": 14,
+            "timestamp": "2025-06-16 18:41:21",
+            "durationSeconds": 165
+        },
+        {
+            "userId": 3,
+            "topic": "Jobs",
+            "score": 5,
+            "totalQuestions": 15,
+            "correctAnswers": 5,
+            "wrongAnswers": 10,
+            "timestamp": "2025-06-17 14:53:28",
+            "durationSeconds": 80
+        },
+        {
+            "userId": 3,
+            "topic": "Weather",
+            "score": 15,
+            "totalQuestions": 15,
+            "correctAnswers": 15,
+            "wrongAnswers": 0,
+            "timestamp": "2025-06-18 17:10:42",
+            "durationSeconds": 41
+        },
+        {
+            "userId": 3,
+            "topic": "Environment",
+            "score": 15,
+            "totalQuestions": 15,
+            "correctAnswers": 15,
+            "wrongAnswers": 0,
+            "timestamp": "2025-06-19 15:24:08",
+            "durationSeconds": 123
+        }
+    ],
+    "quiz_questions": {
+        "daily": {
+            "q1": {
+                "question": "Wake up",
+                "option1": "thức dậy",
+                "option2": "ngủ trưa",
+                "option3": "chơi trò chơi",
+                "option4": "mặc quần áo",
+                "correctAnswer": "thức dậy"
+            },
+            "q2": {
+                "question": "Brush",
+                "option1": "đánh (răng, tóc)",
+                "option2": "đi học",
+                "option3": "thức dậy",
+                "option4": "làm bài tập về nhà",
+                "correctAnswer": "đánh (răng, tóc)"
+            },
+            "q3": {
+                "question": "Shower",
+                "option1": "tắm vòi sen",
+                "option2": "đánh (răng, tóc)",
+                "option3": "làm bài tập về nhà",
+                "option4": "tắm bồn",
+                "correctAnswer": "tắm vòi sen"
+            },
+            "q4": {
+                "question": "Get dressed",
+                "option1": "mặc quần áo",
+                "option2": "đánh (răng, tóc)",
+                "option3": "chơi trò chơi",
+                "option4": "làm bài tập về nhà",
+                "correctAnswer": "mặc quần áo"
+            },
+            "q5": {
+                "question": "Have breakfast",
+                "option1": "ăn sáng",
+                "option2": "ngủ trưa",
+                "option3": "ăn trưa",
+                "option4": "đánh (răng, tóc)",
+                "correctAnswer": "ăn sáng"
+            },
+            "q6": {
+                "question": "Go to school",
+                "option1": "đi học",
+                "option2": "đánh (răng, tóc)",
+                "option3": "chơi trò chơi",
+                "option4": "xem tivi",
+                "correctAnswer": "đi học"
+            },
+            "q7": {
+                "question": "Study",
+                "option1": "học",
+                "option2": "đánh (răng, tóc)",
+                "option3": "tắm bồn",
+                "option4": "đi học",
+                "correctAnswer": "học"
+            },
+            "q8": {
+                "question": "Do homework",
+                "option1": "làm bài tập về nhà",
+                "option2": "chơi trò chơi",
+                "option3": "mặc quần áo",
+                "option4": "ăn tối",
+                "correctAnswer": "làm bài tập về nhà"
+            },
+            "q9": {
+                "question": "Have lunch",
+                "option1": "ăn trưa",
+                "option2": "đánh (răng, tóc)",
+                "option3": "tắm bồn",
+                "option4": "chơi trò chơi",
+                "correctAnswer": "ăn trưa"
+            },
+            "q10": {
+                "question": "Take a nap",
+                "option1": "ngủ trưa",
+                "option2": "đánh (răng, tóc)",
+                "option3": "mặc quần áo",
+                "option4": "học",
+                "correctAnswer": "ngủ trưa"
+            },
+            "q11": {
+                "question": "Watch TV",
+                "option1": "xem tivi",
+                "option2": "đi ngủ",
+                "option3": "chơi trò chơi",
+                "option4": "thức dậy",
+                "correctAnswer": "xem tivi"
+            },
+            "q12": {
+                "question": "Play games",
+                "option1": "chơi trò chơi",
+                "option2": "mặc quần áo",
+                "option3": "ăn tối",
+                "option4": "đi học",
+                "correctAnswer": "chơi trò chơi"
+            },
+            "q13": {
+                "question": "Have dinner",
+                "option1": "ăn tối",
+                "option2": "ngủ trưa",
+                "option3": "đi ngủ",
+                "option4": "xem tivi",
+                "correctAnswer": "ăn tối"
+            },
+            "q14": {
+                "question": "Take a bath",
+                "option1": "tắm bồn",
+                "option2": "ăn trưa",
+                "option3": "làm bài tập về nhà",
+                "option4": "đi ngủ",
+                "correctAnswer": "tắm bồn"
+            },
+            "q15": {
+                "question": "Go to bed",
+                "option1": "đi ngủ",
+                "option2": "xem tivi",
+                "option3": "học",
+                "option4": "mặc quần áo",
+                "correctAnswer": "đi ngủ"
+            }
+        },
+        "emotions": {
+            "q1": {
+                "question": "Sad",
+                "option1": "buồn",
+                "option2": "rất sốc",
+                "option3": "sợ hãi",
+                "option4": "ác độc",
+                "correctAnswer": "buồn"
+            },
+            "q2": {
+                "question": "Scared",
+                "option1": "sợ hãi",
+                "option2": "lo lắng",
+                "option3": "kiêu ngạo",
+                "option4": "ác độc",
+                "correctAnswer": "sợ hãi"
+            },
+            "q3": {
+                "question": "Angry",
+                "option1": "tức giận",
+                "option2": "buồn",
+                "option3": "mệt mỏi",
+                "option4": "sợ hãi",
+                "correctAnswer": "tức giận"
+            },
+            "q4": {
+                "question": "Anxious",
+                "option1": "lo lắng",
+                "option2": "buồn",
+                "option3": "sợ hãi",
+                "option4": "rất sốc",
+                "correctAnswer": "lo lắng"
+            },
+            "q5": {
+                "question": "Annoyed",
+                "option1": "bực mình",
+                "option2": "kiêu ngạo",
+                "option3": "sợ hãi",
+                "option4": "rất bối rối",
+                "correctAnswer": "bực mình"
+            },
+            "q6": {
+                "question": "Appalled",
+                "option1": "rất sốc",
+                "option2": "buồn",
+                "option3": "sợ hãi",
+                "option4": "ác độc",
+                "correctAnswer": "rất sốc"
+            },
+            "q7": {
+                "question": "Horrified",
+                "option1": "sợ hãi",
+                "option2": "lo lắng",
+                "option3": "rất sốc",
+                "option4": "ác độc",
+                "correctAnswer": "sợ hãi"
+            },
+            "q8": {
+                "question": "Apprehensive",
+                "option1": "hơi lo lắng",
+                "option2": "tức giận",
+                "option3": "kiêu ngạo",
+                "option4": "xấu hổ",
+                "correctAnswer": "hơi lo lắng"
+            },
+            "q9": {
+                "question": "Nervous",
+                "option1": "lo lắng",
+                "option2": "sợ hãi",
+                "option3": "rất bối rối",
+                "option4": "buồn",
+                "correctAnswer": "lo lắng"
+            },
+            "q10": {
+                "question": "Arrogant",
+                "option1": "kiêu ngạo",
+                "option2": "tiêu cực, bi quan",
+                "option3": "tức giận",
+                "option4": "buồn",
+                "correctAnswer": "kiêu ngạo"
+            },
+            "q11": {
+                "question": "Unhappy",
+                "option1": "buồn",
+                "option2": "lo lắng",
+                "option3": "sợ hãi",
+                "option4": "tiêu cực, bi quan",
+                "correctAnswer": "buồn"
+            },
+            "q12": {
+                "question": "Ashamed",
+                "option1": "xấu hổ",
+                "option2": "ác độc",
+                "option3": "lo lắng",
+                "option4": "tức giận",
+                "correctAnswer": "xấu hổ"
+            },
+            "q13": {
+                "question": "Bewildered",
+                "option1": "rất bối rối",
+                "option2": "rất sốc",
+                "option3": "lo lắng",
+                "option4": "sợ hãi",
+                "correctAnswer": "rất bối rối"
+            },
+            "q14": {
+                "question": "Malicious",
+                "option1": "ác độc",
+                "option2": "buồn",
+                "option3": "rất bối rối",
+                "option4": "lo lắng",
+                "correctAnswer": "ác độc"
+            },
+            "q15": {
+                "question": "Negative",
+                "option1": "tiêu cực, bi quan",
+                "option2": "kiêu ngạo",
+                "option3": "lo lắng",
+                "option4": "sợ hãi",
+                "correctAnswer": "tiêu cực, bi quan"
+            }
+        },
+        "technology": {
+            "q1": {
+                "question": "Computer",
+                "option1": "Máy tính",
+                "option2": "Phần cứng",
+                "option3": "Phần mềm",
+                "option4": "Mạng xã hội",
+                "correctAnswer": "Máy tính"
+            },
+            "q2": {
+                "question": "Smartphone",
+                "option1": "Điện thoại thông minh",
+                "option2": "Thư điện tử",
+                "option3": "Ứng dụng",
+                "option4": "Mạng xã hội",
+                "correctAnswer": "Điện thoại thông minh"
+            },
+            "q3": {
+                "question": "Tablet",
+                "option1": "Máy tính bảng",
+                "option2": "Điện thoại thông minh",
+                "option3": "Internet vạn vật",
+                "option4": "Mạng internet",
+                "correctAnswer": "Máy tính bảng"
+            },
+            "q4": {
+                "question": "Network",
+                "option1": "Mạng",
+                "option2": "Máy tính bảng",
+                "option3": "Trình duyệt",
+                "option4": "Rô-bốt",
+                "correctAnswer": "Mạng"
+            },
+            "q5": {
+                "question": "Internet",
+                "option1": "Mạng internet",
+                "option2": "Trình duyệt",
+                "option3": "Rô-bốt",
+                "option4": "Thư điện tử",
+                "correctAnswer": "Mạng internet"
+            },
+            "q6": {
+                "question": "Software",
+                "option1": "Phần mềm",
+                "option2": "Thư điện tử",
+                "option3": "Trang web",
+                "option4": "Mạng xã hội",
+                "correctAnswer": "Phần mềm"
+            },
+            "q7": {
+                "question": "Hardware",
+                "option1": "Phần cứng",
+                "option2": "Điện thoại thông minh",
+                "option3": "Internet vạn vật",
+                "option4": "Mạng internet",
+                "correctAnswer": "Phần cứng"
+            },
+            "q8": {
+                "question": "App",
+                "option1": "Ứng dụng",
+                "option2": "Phần mềm",
+                "option3": "Internet vạn vật",
+                "option4": "Máy tính",
+                "correctAnswer": "Ứng dụng"
+            },
+            "q9": {
+                "question": "Browser",
+                "option1": "Trình duyệt",
+                "option2": "Thư điện tử",
+                "option3": "Mạng xã hội",
+                "option4": "Trang web",
+                "correctAnswer": "Trình duyệt"
+            },
+            "q10": {
+                "question": "Website",
+                "option1": "Trang web",
+                "option2": "Internet vạn vật",
+                "option3": "Mạng internet",
+                "option4": "Mạng",
+                "correctAnswer": "Trang web"
+            },
+            "q11": {
+                "question": "Email",
+                "option1": "Thư điện tử",
+                "option2": "Máy tính bảng",
+                "option3": "Rô-bốt",
+                "option4": "Mạng",
+                "correctAnswer": "Thư điện tử"
+            },
+            "q12": {
+                "question": "Social media",
+                "option1": "Mạng xã hội",
+                "option2": "Trí tuệ nhân tạo",
+                "option3": "Rô-bốt",
+                "option4": "Trang web",
+                "correctAnswer": "Mạng xã hội"
+            },
+            "q13": {
+                "question": "Artificial intelligence (AI)",
+                "option1": "Trí tuệ nhân tạo",
+                "option2": "Điện thoại thông minh",
+                "option3": "Ứng dụng",
+                "option4": "Mạng xã hội",
+                "correctAnswer": "Trí tuệ nhân tạo"
+            },
+            "q14": {
+                "question": "Internet of Things (IoT)",
+                "option1": "Internet vạn vật",
+                "option2": "Trang web",
+                "option3": "Rô-bốt",
+                "option4": "Máy tính",
+                "correctAnswer": "Internet vạn vật"
+            },
+            "q15": {
+                "question": "Robot",
+                "option1": "Rô-bốt",
+                "option2": "Trang web",
+                "option3": "Ứng dụng",
+                "option4": "Trí tuệ nhân tạo",
+                "correctAnswer": "Rô-bốt"
+            }
+        },
+        "airport": {
+            "q1": {
+                "question": "Airport",
+                "option1": "Sân bay",
+                "option2": "Hải quan",
+                "option3": "Cửa ra máy bay",
+                "option4": "Phòng chờ",
+                "correctAnswer": "Sân bay"
+            },
+            "q2": {
+                "question": "Flight",
+                "option1": "Chuyến bay",
+                "option2": "Hành lý",
+                "option3": "An ninh",
+                "option4": "Cửa ra máy bay",
+                "correctAnswer": "Chuyến bay"
+            },
+            "q3": {
+                "question": "Ticket",
+                "option1": "Vé",
+                "option2": "Phòng chờ",
+                "option3": "Hải quan",
+                "option4": "Chuyến bay",
+                "correctAnswer": "Vé"
+            },
+            "q4": {
+                "question": "Gate",
+                "option1": "Cửa ra máy bay",
+                "option2": "Sân bay",
+                "option3": "Khởi hành",
+                "option4": "Làm thủ tục",
+                "correctAnswer": "Cửa ra máy bay"
+            },
+            "q5": {
+                "question": "Boarding pass",
+                "option1": "Thẻ lên máy bay",
+                "option2": "Chuyến bay",
+                "option3": "Vé",
+                "option4": "Phòng chờ",
+                "correctAnswer": "Thẻ lên máy bay"
+            },
+            "q6": {
+                "question": "Check-in",
+                "option1": "Làm thủ tục",
+                "option2": "Hãng hàng không",
+                "option3": "Phòng chờ",
+                "option4": "Cửa ra máy bay",
+                "correctAnswer": "Làm thủ tục"
+            },
+            "q7": {
+                "question": "Baggage",
+                "option1": "Hành lý",
+                "option2": "An ninh",
+                "option3": "Làm thủ tục",
+                "option4": "Hải quan",
+                "correctAnswer": "Hành lý"
+            },
+            "q8": {
+                "question": "Passport",
+                "option1": "Hộ chiếu",
+                "option2": "Vé",
+                "option3": "Sân bay",
+                "option4": "Đến nơi",
+                "correctAnswer": "Hộ chiếu"
+            },
+            "q9": {
+                "question": "Customs",
+                "option1": "Hải quan",
+                "option2": "Vé",
+                "option3": "Cửa ra máy bay",
+                "option4": "Hành lý",
+                "correctAnswer": "Hải quan"
+            },
+            "q10": {
+                "question": "Arrival",
+                "option1": "Đến nơi",
+                "option2": "Nhà ga",
+                "option3": "Sân bay",
+                "option4": "Hành lý",
+                "correctAnswer": "Đến nơi"
+            },
+            "q11": {
+                "question": "Departure",
+                "option1": "Khởi hành",
+                "option2": "An ninh",
+                "option3": "Vé",
+                "option4": "Hải quan",
+                "correctAnswer": "Khởi hành"
+            },
+            "q12": {
+                "question": "Terminal",
+                "option1": "Nhà ga",
+                "option2": "Hãng hàng không",
+                "option3": "Phòng chờ",
+                "option4": "Hải quan",
+                "correctAnswer": "Nhà ga"
+            },
+            "q13": {
+                "question": "Security",
+                "option1": "An ninh",
+                "option2": "Cửa ra máy bay",
+                "option3": "Thẻ lên máy bay",
+                "option4": "Khởi hành",
+                "correctAnswer": "An ninh"
+            },
+            "q14": {
+                "question": "Lounge",
+                "option1": "Phòng chờ",
+                "option2": "Thẻ lên máy bay",
+                "option3": "Chuyến bay",
+                "option4": "Khởi hành",
+                "correctAnswer": "Phòng chờ"
+            },
+            "q15": {
+                "question": "Airline",
+                "option1": "Hãng hàng không",
+                "option2": "Làm thủ tục",
+                "option3": "Đến nơi",
+                "option4": "Thẻ lên máy bay",
+                "correctAnswer": "Hãng hàng không"
+            }
+        },
+        "shopping": {
+            "q1": {
+                "question": "Buy",
+                "option1": "Mua",
+                "option2": "Thanh toán",
+                "option3": "Cửa hàng",
+                "option4": "Bán",
+                "correctAnswer": "Mua"
+            },
+            "q2": {
+                "question": "Sell",
+                "option1": "Bán",
+                "option2": "Chợ",
+                "option3": "Hàng hóa",
+                "option4": "Hóa đơn",
+                "correctAnswer": "Bán"
+            },
+            "q3": {
+                "question": "Shop",
+                "option1": "Cửa hàng",
+                "option2": "Mua",
+                "option3": "Bán",
+                "option4": "Giá",
+                "correctAnswer": "Cửa hàng"
+            },
+            "q4": {
+                "question": "Supermarket",
+                "option1": "Siêu thị",
+                "option2": "Đồ (vật phẩm)",
+                "option3": "Mua",
+                "option4": "Tiền",
+                "correctAnswer": "Siêu thị"
+            },
+            "q5": {
+                "question": "Market",
+                "option1": "Chợ",
+                "option2": "Siêu thị",
+                "option3": "Thanh toán",
+                "option4": "Xe đẩy",
+                "correctAnswer": "Chợ"
+            },
+            "q6": {
+                "question": "Price",
+                "option1": "Giá",
+                "option2": "Đồ (vật phẩm)",
+                "option3": "Chợ",
+                "option4": "Túi",
+                "correctAnswer": "Giá"
+            },
+            "q7": {
+                "question": "Money",
+                "option1": "Tiền",
+                "option2": "Túi",
+                "option3": "Thanh toán",
+                "option4": "Chợ",
+                "correctAnswer": "Tiền"
+            },
+            "q8": {
+                "question": "Discount",
+                "option1": "Giảm giá",
+                "option2": "Mua",
+                "option3": "Giá",
+                "option4": "Tiền",
+                "correctAnswer": "Giảm giá"
+            },
+            "q9": {
+                "question": "Pay",
+                "option1": "Thanh toán",
+                "option2": "Siêu thị",
+                "option3": "Mua",
+                "option4": "Hàng hóa",
+                "correctAnswer": "Thanh toán"
+            },
+            "q10": {
+                "question": "Goods",
+                "option1": "Hàng hóa",
+                "option2": "Cửa hàng",
+                "option3": "Giảm giá",
+                "option4": "Thanh toán",
+                "correctAnswer": "Hàng hóa"
+            },
+            "q11": {
+                "question": "Bag",
+                "option1": "Túi",
+                "option2": "Chợ",
+                "option3": "Thanh toán",
+                "option4": "Hóa đơn",
+                "correctAnswer": "Túi"
+            },
+            "q12": {
+                "question": "Trolley",
+                "option1": "Xe đẩy",
+                "option2": "Cửa hàng",
+                "option3": "Túi",
+                "option4": "Giảm giá",
+                "correctAnswer": "Xe đẩy"
+            },
+            "q13": {
+                "question": "Staff",
+                "option1": "Nhân viên",
+                "option2": "Siêu thị",
+                "option3": "Xe đẩy",
+                "option4": "Thanh toán",
+                "correctAnswer": "Nhân viên"
+            },
+            "q14": {
+                "question": "Bill",
+                "option1": "Hóa đơn",
+                "option2": "Cửa hàng",
+                "option3": "Chợ",
+                "option4": "Thanh toán",
+                "correctAnswer": "Hóa đơn"
+            },
+            "q15": {
+                "question": "Item",
+                "option1": "Đồ (vật phẩm)",
+                "option2": "Xe đẩy",
+                "option3": "Nhân viên",
+                "option4": "Hàng hóa",
+                "correctAnswer": "Đồ (vật phẩm)"
+            }
+        },
+        "health": {
+            "q1": {
+                "question": "Health",
+                "option1": "Sức khỏe",
+                "option2": "Chế độ ăn uống cân bằng",
+                "option3": "Tránh xa",
+                "option4": "Tập thể dục",
+                "correctAnswer": "Sức khỏe"
+            },
+            "q2": {
+                "question": "Healthy",
+                "option1": "Khỏe mạnh",
+                "option2": "Tập thể dục",
+                "option3": "Nước",
+                "option4": "Ngủ đủ giấc",
+                "correctAnswer": "Khỏe mạnh"
+            },
+            "q3": {
+                "question": "Healthy eating",
+                "option1": "Ăn uống lành mạnh",
+                "option2": "Thực phẩm hữu cơ",
+                "option3": "Hoạt động thể chất",
+                "option4": "Sức khỏe",
+                "correctAnswer": "Ăn uống lành mạnh"
+            },
+            "q4": {
+                "question": "Exercise",
+                "option1": "Tập thể dục",
+                "option2": "Rau xanh",
+                "option3": "Ăn uống lành mạnh",
+                "option4": "Tránh xa",
+                "correctAnswer": "Tập thể dục"
+            },
+            "q5": {
+                "question": "Balanced diet",
+                "option1": "Chế độ ăn uống cân bằng",
+                "option2": "Rau xanh",
+                "option3": "Vitamin",
+                "option4": "Thực phẩm hữu cơ",
+                "correctAnswer": "Chế độ ăn uống cân bằng"
+            },
+            "q6": {
+                "question": "Get enough sleep",
+                "option1": "Ngủ đủ giấc",
+                "option2": "Khoáng chất",
+                "option3": "Khỏe mạnh",
+                "option4": "Ngủ ngon",
+                "correctAnswer": "Ngủ đủ giấc"
+            },
+            "q7": {
+                "question": "Water",
+                "option1": "Nước",
+                "option2": "Rau xanh",
+                "option3": "Vitamin",
+                "option4": "Ăn uống lành mạnh",
+                "correctAnswer": "Nước"
+            },
+            "q8": {
+                "question": "Vitamins",
+                "option1": "Vitamin",
+                "option2": "Hoạt động thể chất",
+                "option3": "Ngủ ngon",
+                "option4": "Ăn uống lành mạnh",
+                "correctAnswer": "Vitamin"
+            },
+            "q9": {
+                "question": "Minerals",
+                "option1": "Khoáng chất",
+                "option2": "Sức khỏe",
+                "option3": "Tập thể dục",
+                "option4": "Thực phẩm hữu cơ",
+                "correctAnswer": "Khoáng chất"
+            },
+            "q10": {
+                "question": "Vegetables",
+                "option1": "Rau xanh",
+                "option2": "Nước",
+                "option3": "Ngủ ngon",
+                "option4": "Tập thể dục",
+                "correctAnswer": "Rau xanh"
+            },
+            "q11": {
+                "question": "Fruits",
+                "option1": "Trái cây",
+                "option2": "Nước",
+                "option3": "Khoáng chất",
+                "option4": "Chế độ ăn uống cân bằng",
+                "correctAnswer": "Trái cây"
+            },
+            "q12": {
+                "question": "Good sleep",
+                "option1": "Ngủ ngon",
+                "option2": "Ăn uống lành mạnh",
+                "option3": "Chế độ ăn uống cân bằng",
+                "option4": "Trái cây",
+                "correctAnswer": "Ngủ ngon"
+            },
+            "q13": {
+                "question": "Physical activity",
+                "option1": "Hoạt động thể chất",
+                "option2": "Nước",
+                "option3": "Ăn uống lành mạnh",
+                "option4": "Ngủ ngon",
+                "correctAnswer": "Hoạt động thể chất"
+            },
+            "q14": {
+                "question": "Organic food",
+                "option1": "Thực phẩm hữu cơ",
+                "option2": "Hoạt động thể chất",
+                "option3": "Khoáng chất",
+                "option4": "Vitamin",
+                "correctAnswer": "Thực phẩm hữu cơ"
+            },
+            "q15": {
+                "question": "Avoid",
+                "option1": "Tránh xa",
+                "option2": "Trái cây",
+                "option3": "Hoạt động thể chất",
+                "option4": "Vitamin",
+                "correctAnswer": "Tránh xa"
+            }
+        },
+        "education": {
+            "q1": {
+                "question": "School",
+                "option1": "Trường học",
+                "option2": "Tốt nghiệp",
+                "option3": "Trường đại học",
+                "option4": "Bài tập về nhà",
+                "correctAnswer": "Trường học"
+            },
+            "q2": {
+                "question": "Classroom",
+                "option1": "Lớp học",
+                "option2": "Sách",
+                "option3": "Bài giảng",
+                "option4": "Trường học",
+                "correctAnswer": "Lớp học"
+            },
+            "q3": {
+                "question": "Student",
+                "option1": "Học sinh/Sinh viên",
+                "option2": "Bài giảng",
+                "option3": "Kỳ thi",
+                "option4": "Trường đại học",
+                "correctAnswer": "Học sinh/Sinh viên"
+            },
+            "q4": {
+                "question": "Teacher",
+                "option1": "Giáo viên",
+                "option2": "Bài học",
+                "option3": "Bài giảng",
+                "option4": "Sách",
+                "correctAnswer": "Giáo viên"
+            },
+            "q5": {
+                "question": "Lesson",
+                "option1": "Bài học",
+                "option2": "Khuôn viên trường",
+                "option3": "Trường đại học",
+                "option4": "Kiến thức",
+                "correctAnswer": "Bài học"
+            },
+            "q6": {
+                "question": "Book",
+                "option1": "Sách",
+                "option2": "Trường học",
+                "option3": "Học phí",
+                "option4": "Trường đại học",
+                "correctAnswer": "Sách"
+            },
+            "q7": {
+                "question": "Knowledge",
+                "option1": "Kiến thức",
+                "option2": "Khuôn viên trường",
+                "option3": "Bài học",
+                "option4": "Trường đại học",
+                "correctAnswer": "Kiến thức"
+            },
+            "q8": {
+                "question": "Exam",
+                "option1": "Kỳ thi",
+                "option2": "Thư viện",
+                "option3": "Tốt nghiệp",
+                "option4": "Giáo viên",
+                "correctAnswer": "Kỳ thi"
+            },
+            "q9": {
+                "question": "Homework",
+                "option1": "Bài tập về nhà",
+                "option2": "Tốt nghiệp",
+                "option3": "Thư viện",
+                "option4": "Bài giảng",
+                "correctAnswer": "Bài tập về nhà"
+            },
+            "q10": {
+                "question": "University",
+                "option1": "Trường đại học",
+                "option2": "Thư viện",
+                "option3": "Lớp học",
+                "option4": "Bài học",
+                "correctAnswer": "Trường đại học"
+            },
+            "q11": {
+                "question": "Lecture",
+                "option1": "Bài giảng",
+                "option2": "Trường học",
+                "option3": "Tốt nghiệp",
+                "option4": "Kiến thức",
+                "correctAnswer": "Bài giảng"
+            },
+            "q12": {
+                "question": "Campus",
+                "option1": "Khuôn viên trường",
+                "option2": "Trường đại học",
+                "option3": "Bài học",
+                "option4": "Thư viện",
+                "correctAnswer": "Khuôn viên trường"
+            },
+            "q13": {
+                "question": "Graduate",
+                "option1": "Tốt nghiệp",
+                "option2": "Lớp học",
+                "option3": "Học phí",
+                "option4": "Thư viện",
+                "correctAnswer": "Tốt nghiệp"
+            },
+            "q14": {
+                "question": "Library",
+                "option1": "Thư viện",
+                "option2": "Trường đại học",
+                "option3": "Học phí",
+                "option4": "Bài giảng",
+                "correctAnswer": "Thư viện"
+            },
+            "q15": {
+                "question": "Tuition",
+                "option1": "Học phí",
+                "option2": "Bài tập về nhà",
+                "option3": "Giáo viên",
+                "option4": "Tốt nghiệp",
+                "correctAnswer": "Học phí"
+            }
+        },
+        "jobs": {
+            "q1": {
+                "question": "Teacher",
+                "option1": "Giáo viên",
+                "option2": "Y tá",
+                "option3": "Nghệ sĩ",
+                "option4": "Nhà văn",
+                "correctAnswer": "Giáo viên"
+            },
+            "q2": {
+                "question": "Doctor",
+                "option1": "Bác sĩ",
+                "option2": "Đầu bếp",
+                "option3": "Nhạc sĩ",
+                "option4": "Thợ máy",
+                "correctAnswer": "Bác sĩ"
+            },
+            "q3": {
+                "question": "Nurse",
+                "option1": "Y tá",
+                "option2": "Nhà văn",
+                "option3": "Thợ máy",
+                "option4": "Đầu bếp",
+                "correctAnswer": "Y tá"
+            },
+            "q4": {
+                "question": "Engineer",
+                "option1": "Kỹ sư",
+                "option2": "Cảnh sát",
+                "option3": "Y tá",
+                "option4": "Đầu bếp",
+                "correctAnswer": "Kỹ sư"
+            },
+            "q5": {
+                "question": "Driver",
+                "option1": "Tài xế",
+                "option2": "Đầu bếp",
+                "option3": "Nghệ sĩ",
+                "option4": "Thợ máy",
+                "correctAnswer": "Tài xế"
+            },
+            "q6": {
+                "question": "Chef",
+                "option1": "Đầu bếp",
+                "option2": "Kỹ sư",
+                "option3": "Y tá",
+                "option4": "Thợ máy",
+                "correctAnswer": "Đầu bếp"
+            },
+            "q7": {
+                "question": "Police officer",
+                "option1": "Cảnh sát",
+                "option2": "Y tá",
+                "option3": "Nhà văn",
+                "option4": "Nhạc sĩ",
+                "correctAnswer": "Cảnh sát"
+            },
+            "q8": {
+                "question": "Farmer",
+                "option1": "Nông dân",
+                "option2": "Giáo viên",
+                "option3": "Lính cứu hỏa",
+                "option4": "Cảnh sát",
+                "correctAnswer": "Nông dân"
+            },
+            "q9": {
+                "question": "Firefighter",
+                "option1": "Lính cứu hỏa",
+                "option2": "Tài xế",
+                "option3": "Cảnh sát",
+                "option4": "Bác sĩ",
+                "correctAnswer": "Lính cứu hỏa"
+            },
+            "q10": {
+                "question": "Pilot",
+                "option1": "Phi công",
+                "option2": "Y tá",
+                "option3": "Nông dân",
+                "option4": "Kỹ sư",
+                "correctAnswer": "Phi công"
+            },
+            "q11": {
+                "question": "Waiter/Waitress",
+                "option1": "Phục vụ",
+                "option2": "Tài xế",
+                "option3": "Giáo viên",
+                "option4": "Nông dân",
+                "correctAnswer": "Phục vụ"
+            },
+            "q12": {
+                "question": "Artist",
+                "option1": "Nghệ sĩ",
+                "option2": "Phi công",
+                "option3": "Nhà văn",
+                "option4": "Bác sĩ",
+                "correctAnswer": "Nghệ sĩ"
+            },
+            "q13": {
+                "question": "Musician",
+                "option1": "Nhạc sĩ",
+                "option2": "Phi công",
+                "option3": "Thợ máy",
+                "option4": "Kỹ sư",
+                "correctAnswer": "Nhạc sĩ"
+            },
+            "q14": {
+                "question": "Writer",
+                "option1": "Nhà văn",
+                "option2": "Đầu bếp",
+                "option3": "Giáo viên",
+                "option4": "Nông dân",
+                "correctAnswer": "Nhà văn"
+            },
+            "q15": {
+                "question": "Mechanic",
+                "option1": "Thợ máy",
+                "option2": "Kỹ sư",
+                "option3": "Giáo viên",
+                "option4": "Nhà văn",
+                "correctAnswer": "Thợ máy"
+            }
+        },
+        "weather": {
+            "q1": {
+                "question": "Rain",
+                "option1": "Mưa",
+                "option2": "Sấm",
+                "option3": "Bão",
+                "option4": "Sấm chớp",
+                "correctAnswer": "Mưa"
+            },
+            "q2": {
+                "question": "Snow",
+                "option1": "Tuyết",
+                "option2": "Nóng",
+                "option3": "Có mây",
+                "option4": "Độ ẩm",
+                "correctAnswer": "Tuyết"
+            },
+            "q3": {
+                "question": "Sunny",
+                "option1": "Nắng",
+                "option2": "Sấm",
+                "option3": "Độ ẩm",
+                "option4": "Nhiệt độ",
+                "correctAnswer": "Nắng"
+            },
+            "q4": {
+                "question": "Cloudy",
+                "option1": "Có mây",
+                "option2": "Bão lớn",
+                "option3": "Nắng",
+                "option4": "Bão",
+                "correctAnswer": "Có mây"
+            },
+            "q5": {
+                "question": "Storm",
+                "option1": "Bão",
+                "option2": "Có gió",
+                "option3": "Lốc xoáy",
+                "option4": "Có mây",
+                "correctAnswer": "Bão"
+            },
+            "q6": {
+                "question": "Windy",
+                "option1": "Có gió",
+                "option2": "Bão",
+                "option3": "Mưa",
+                "option4": "Sấm",
+                "correctAnswer": "Có gió"
+            },
+            "q7": {
+                "question": "Foggy",
+                "option1": "Có sương mù",
+                "option2": "Sấm",
+                "option3": "Nóng",
+                "option4": "Lốc xoáy",
+                "correctAnswer": "Có sương mù"
+            },
+            "q8": {
+                "question": "Cold",
+                "option1": "Lạnh",
+                "option2": "Có mây",
+                "option3": "Có sương mù",
+                "option4": "Nhiệt độ",
+                "correctAnswer": "Lạnh"
+            },
+            "q9": {
+                "question": "Hot",
+                "option1": "Nóng",
+                "option2": "Tuyết",
+                "option3": "Độ ẩm",
+                "option4": "Có gió",
+                "correctAnswer": "Nóng"
+            },
+            "q10": {
+                "question": "Humidity",
+                "option1": "Độ ẩm",
+                "option2": "Nắng",
+                "option3": "Lốc xoáy",
+                "option4": "Có sương mù",
+                "correctAnswer": "Độ ẩm"
+            },
+            "q11": {
+                "question": "Temperature",
+                "option1": "Nhiệt độ",
+                "option2": "Nóng",
+                "option3": "Bão",
+                "option4": "Tuyết",
+                "correctAnswer": "Nhiệt độ"
+            },
+            "q12": {
+                "question": "Lightning",
+                "option1": "Sấm chớp",
+                "option2": "Nhiệt độ",
+                "option3": "Có mây",
+                "option4": "Bão lớn",
+                "correctAnswer": "Sấm chớp"
+            },
+            "q13": {
+                "question": "Thunder",
+                "option1": "Sấm",
+                "option2": "Tuyết",
+                "option3": "Mưa",
+                "option4": "Sấm chớp",
+                "correctAnswer": "Sấm"
+            },
+            "q14": {
+                "question": "Hurricane",
+                "option1": "Bão lớn",
+                "option2": "Mưa",
+                "option3": "Lạnh",
+                "option4": "Nhiệt độ",
+                "correctAnswer": "Bão lớn"
+            },
+            "q15": {
+                "question": "Tornado",
+                "option1": "Lốc xoáy",
+                "option2": "Tuyết",
+                "option3": "Có sương mù",
+                "option4": "Có gió",
+                "correctAnswer": "Lốc xoáy"
+            }
+        },
+        "environment": {
+            "q1": {
+                "question": "Environment",
+                "option1": "Môi trường",
+                "option2": "Hiệu ứng nhà kính",
+                "option3": "Bảo tồn",
+                "option4": "Rác",
+                "correctAnswer": "Môi trường"
+            },
+            "q2": {
+                "question": "Pollution",
+                "option1": "Ô nhiễm",
+                "option2": "Dấu chân carbon",
+                "option3": "Năng lượng gió",
+                "option4": "Các loài có nguy cơ tuyệt chủng",
+                "correctAnswer": "Ô nhiễm"
+            },
+            "q3": {
+                "question": "Recycle",
+                "option1": "Tái chế",
+                "option2": "Năng lượng tái tạo",
+                "option3": "Năng lượng mặt trời",
+                "option4": "Rác",
+                "correctAnswer": "Tái chế"
+            },
+            "q4": {
+                "question": "Waste",
+                "option1": "Rác thải",
+                "option2": "Các loài có nguy cơ tuyệt chủng",
+                "option3": "Sự bền vững",
+                "option4": "Rác",
+                "correctAnswer": "Rác thải"
+            },
+            "q5": {
+                "question": "Climate change",
+                "option1": "Biến đổi khí hậu",
+                "option2": "Năng lượng tái tạo",
+                "option3": "Hiệu ứng nhà kính",
+                "option4": "Môi trường",
+                "correctAnswer": "Biến đổi khí hậu"
+            },
+            "q6": {
+                "question": "Deforestation",
+                "option1": "Phá rừng",
+                "option2": "Rác",
+                "option3": "Năng lượng gió",
+                "option4": "Rác thải",
+                "correctAnswer": "Phá rừng"
+            },
+            "q7": {
+                "question": "Endangered species",
+                "option1": "Các loài có nguy cơ tuyệt chủng",
+                "option2": "Hiệu ứng nhà kính",
+                "option3": "Rác thải",
+                "option4": "Dấu chân carbon",
+                "correctAnswer": "Các loài có nguy cơ tuyệt chủng"
+            },
+            "q8": {
+                "question": "Conservation",
+                "option1": "Bảo tồn",
+                "option2": "Môi trường",
+                "option3": "Năng lượng tái tạo",
+                "option4": "Sự bền vững",
+                "correctAnswer": "Bảo tồn"
+            },
+            "q9": {
+                "question": "Sustainability",
+                "option1": "Sự bền vững",
+                "option2": "Năng lượng tái tạo",
+                "option3": "Rác thải",
+                "option4": "Rác",
+                "correctAnswer": "Sự bền vững"
+            },
+            "q10": {
+                "question": "Renewable energy",
+                "option1": "Năng lượng tái tạo",
+                "option2": "Các loài có nguy cơ tuyệt chủng",
+                "option3": "Hiệu ứng nhà kính",
+                "option4": "Bảo tồn",
+                "correctAnswer": "Năng lượng tái tạo"
+            },
+            "q11": {
+                "question": "Solar power",
+                "option1": "Năng lượng mặt trời",
+                "option2": "Tái chế",
+                "option3": "Ô nhiễm",
+                "option4": "Dấu chân carbon",
+                "correctAnswer": "Năng lượng mặt trời"
+            },
+            "q12": {
+                "question": "Wind power",
+                "option1": "Năng lượng gió",
+                "option2": "Năng lượng tái tạo",
+                "option3": "Bảo tồn",
+                "option4": "Các loài có nguy cơ tuyệt chủng",
+                "correctAnswer": "Năng lượng gió"
+            },
+            "q13": {
+                "question": "Greenhouse effect",
+                "option1": "Hiệu ứng nhà kính",
+                "option2": "Môi trường",
+                "option3": "Các loài có nguy cơ tuyệt chủng",
+                "option4": "Ô nhiễm",
+                "correctAnswer": "Hiệu ứng nhà kính"
+            },
+            "q14": {
+                "question": "Carbon footprint",
+                "option1": "Dấu chân carbon",
+                "option2": "Ô nhiễm",
+                "option3": "Rác thải",
+                "option4": "Phá rừng",
+                "correctAnswer": "Dấu chân carbon"
+            },
+            "q15": {
+                "question": "Trash",
+                "option1": "Rác",
+                "option2": "Môi trường",
+                "option3": "Bảo tồn",
+                "option4": "Ô nhiễm",
+                "correctAnswer": "Rác"
+            }
+        }
+    }
+}

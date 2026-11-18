@@ -1,0 +1,1203 @@
+
+[
+        {
+            "vocabId": 1,
+            "Topic": "daily",
+            "Word": "wake up",
+            "Pronounce": "/weɪk ʌp/",
+            "Meaning": "thức dậy",
+            "Example": "I wake up at 6 AM every day."
+        },
+        {
+            "vocabId": 2,
+            "Topic": "daily",
+            "Word": "brush",
+            "Pronounce": "/brʌʃ/",
+            "Meaning": "đánh (răng, tóc)",
+            "Example": "She brushes her teeth after breakfast."
+        },
+        {
+            "vocabId": 3,
+            "Topic": "daily",
+            "Word": "shower",
+            "Pronounce": "/ˈʃaʊ.ɚ/",
+            "Meaning": "tắm vòi sen",
+            "Example": "He takes a shower before work."
+        },
+        {
+            "vocabId": 4,
+            "Topic": "daily",
+            "Word": "get dressed",
+            "Pronounce": "/ɡɛt drɛst/",
+            "Meaning": "mặc quần áo",
+            "Example": "I get dressed quickly in the morning."
+        },
+        {
+            "vocabId": 5,
+            "Topic": "daily",
+            "Word": "have breakfast",
+            "Pronounce": "/hæv ˈbrek.fəst/",
+            "Meaning": "ăn sáng",
+            "Example": "They have breakfast at 7 AM."
+        },
+        {
+            "vocabId": 6,
+            "Topic": "daily",
+            "Word": "go to school",
+            "Pronounce": "/ɡoʊ tuː skuːl/",
+            "Meaning": "đi học",
+            "Example": " My sister goes to school by bus."
+        },
+        {
+            "vocabId": 7,
+            "Topic": "daily",
+            "Word": "study",
+            "Pronounce": "/ˈstʌd.i/",
+            "Meaning": "học",
+            "Example": "I study English every evening."
+        },
+        {
+            "vocabId": 8,
+            "Topic": "daily",
+            "Word": "do homework",
+            "Pronounce": "/duː ˈhoʊm.wɝːk/",
+            "Meaning": "làm bài tập về nhà",
+            "Example": "He always does his homework before dinner."
+        },
+        {
+            "vocabId": 9,
+            "Topic": "daily",
+            "Word": "have lunch",
+            "Pronounce": "/hæv lʌntʃ/",
+            "Meaning": "ăn trưa",
+            "Example": "We have lunch at the cafeteria."
+        },
+        {
+            "vocabId": 10,
+            "Topic": "daily",
+            "Word": "take a nap",
+            "Pronounce": "/teɪk ə næp/",
+            "Meaning": "ngủ trưa",
+            "Example": "I usually take a nap after lunch."
+        },
+        {
+            "vocabId": 11,
+            "Topic": "daily",
+            "Word": "watch TV",
+            "Pronounce": "/wɑːtʃ ˌtiːˈviː/",
+            "Meaning": "xem tivi",
+            "Example": "He watches TV in the evening."
+        },
+        {
+            "vocabId": 12,
+            "Topic": "daily",
+            "Word": "play games",
+            "Pronounce": "/pleɪ ɡeɪmz/",
+            "Meaning": "chơi trò chơi",
+            "Example": "The kids love to play games after school."
+        },
+        {
+            "vocabId": 13,
+            "Topic": "daily",
+            "Word": "have dinner",
+            "Pronounce": "/hæv ˈdɪn.ɚ/",
+            "Meaning": "ăn tối",
+            "Example": "We have dinner together at 7 PM."
+        },
+        {
+            "vocabId": 14,
+            "Topic": "daily",
+            "Word": "take a bath",
+            "Pronounce": "/teɪk ə bæθ/",
+            "Meaning": "tắm bồn",
+            "Example": "She takes a bath every night."
+        },
+        {
+            "vocabId": 15,
+            "Topic": "daily",
+            "Word": "go to bed",
+            "Pronounce": "/ɡoʊ tuː bɛd/",
+            "Meaning": "đi ngủ",
+            "Example": "I go to bed at 10 PM."
+        },
+        {
+            "vocabId": 16,
+            "Topic": "emotions ",
+            "Word": "sad",
+            "Pronounce": "/sæd/",
+            "Meaning": "buồn",
+            "Example": "She felt sad after watching the movie."
+        },
+        {
+            "vocabId": 17,
+            "Topic": "emotions ",
+            "Word": "scared",
+            "Pronounce": "/skeəd/",
+            "Meaning": "sợ hãi",
+            "Example": "I'm scared of the dark."
+        },
+        {
+            "vocabId": 18,
+            "Topic": "emotions ",
+            "Word": "angry",
+            "Pronounce": "/ˈæŋɡri/",
+            "Meaning": "tức giận",
+            "Example": "He was angry because they lied to him."
+        },
+        {
+            "vocabId": 19,
+            "Topic": "emotions ",
+            "Word": "anxious",
+            "Pronounce": "/ˈæŋkʃəs/",
+            "Meaning": "lo lắng",
+            "Example": "I'm feeling anxious about the test tomorrow."
+        },
+        {
+            "vocabId": 20,
+            "Topic": "emotions ",
+            "Word": "annoyed",
+            "Pronounce": "/əˈnɔɪd/",
+            "Meaning": "bực mình",
+            "Example": "She was annoyed by the loud music."
+        },
+        {
+            "vocabId": 21,
+            "Topic": "emotions ",
+            "Word": "appalled",
+            "Pronounce": "/əˈpɔːld/",
+            "Meaning": "rất sốc",
+            "Example": "I was appalled by his rude behavior."
+        },
+        {
+            "vocabId": 22,
+            "Topic": "emotions ",
+            "Word": "horrified",
+            "Pronounce": "/ˈhɒrɪfaɪd/",
+            "Meaning": "sợ hãi",
+            "Example": "She was horrified to see the accident."
+        },
+        {
+            "vocabId": 23,
+            "Topic": "emotions ",
+            "Word": "apprehensive",
+            "Pronounce": "/ˌæprɪˈhensɪv/",
+            "Meaning": "hơi lo lắng",
+            "Example": "He felt apprehensive about starting a new job."
+        },
+        {
+            "vocabId": 24,
+            "Topic": "emotions ",
+            "Word": "nervous",
+            "Pronounce": "/ˈnɜːvəs/",
+            "Meaning": "lo lắng",
+            "Example": "I'm nervous before speaking in public."
+        },
+        {
+            "vocabId": 25,
+            "Topic": "emotions ",
+            "Word": "arrogant",
+            "Pronounce": "/ˈærəɡənt/",
+            "Meaning": "kiêu ngạo",
+            "Example": "He sounded arrogant during the interview."
+        },
+        {
+            "vocabId": 26,
+            "Topic": "emotions ",
+            "Word": "unhappy",
+            "Pronounce": "/ʌnˈhæpi/",
+            "Meaning": "buồn",
+            "Example": "She was unhappy with the results."
+        },
+        {
+            "vocabId": 27,
+            "Topic": "emotions ",
+            "Word": "ashamed",
+            "Pronounce": "/əˈʃeɪmd/",
+            "Meaning": "xấu hổ",
+            "Example": "He felt ashamed of his actions."
+        },
+        {
+            "vocabId": 28,
+            "Topic": "emotions ",
+            "Word": "bewildered",
+            "Pronounce": "/bɪˈwɪldəd/",
+            "Meaning": "rất bối rối",
+            "Example": "I was bewildered by all the instructions."
+        },
+        {
+            "vocabId": 29,
+            "Topic": "emotions ",
+            "Word": "malicious",
+            "Pronounce": " /məˈlɪʃəs/",
+            "Meaning": "ác độc",
+            "Example": "That was a malicious comment."
+        },
+        {
+            "vocabId": 30,
+            "Topic": "emotions ",
+            "Word": "negative",
+            "Pronounce": " /ˈneɡətɪv/",
+            "Meaning": "tiêu cực, bi quan",
+            "Example": "He always has a negative attitude."
+        },
+        {
+            "vocabId": 31,
+            "Topic": "technology ",
+            "Word": "computer",
+            "Pronounce": "/kəmˈpjuː.tər/",
+            "Meaning": "Máy tính",
+            "Example": "I use a computer every day."
+        },
+        {
+            "vocabId": 32,
+            "Topic": "technology ",
+            "Word": "smartphone",
+            "Pronounce": "/ˈsmɑːt.fəʊn/",
+            "Meaning": "Điện thoại thông minh",
+            "Example": "She has a new smartphone."
+        },
+        {
+            "vocabId": 33,
+            "Topic": "technology ",
+            "Word": "tablet",
+            "Pronounce": "/ˈtæb.lət/",
+            "Meaning": "Máy tính bảng",
+            "Example": " He watches videos on his tablet."
+        },
+        {
+            "vocabId": 34,
+            "Topic": "technology ",
+            "Word": "network",
+            "Pronounce": "/ˈnet.wɜːk/",
+            "Meaning": "Mạng",
+            "Example": "The office has a fast network."
+        },
+        {
+            "vocabId": 35,
+            "Topic": "technology ",
+            "Word": "internet",
+            "Pronounce": "/ˈɪn.tə.net/",
+            "Meaning": "Mạng internet",
+            "Example": "I search for news on the internet."
+        },
+        {
+            "vocabId": 36,
+            "Topic": "technology ",
+            "Word": "software",
+            "Pronounce": "/ˈsɒft.weər/",
+            "Meaning": "Phần mềm",
+            "Example": "This software is easy to use."
+        },
+        {
+            "vocabId": 37,
+            "Topic": "technology ",
+            "Word": "hardware",
+            "Pronounce": "/ˈhɑːd.weər/",
+            "Meaning": "Phần cứng",
+            "Example": "My laptop’s hardware is very old."
+        },
+        {
+            "vocabId": 38,
+            "Topic": "technology ",
+            "Word": "app",
+            "Pronounce": "/æp/",
+            "Meaning": "Ứng dụng",
+            "Example": " I downloaded a music app."
+        },
+        {
+            "vocabId": 39,
+            "Topic": "technology ",
+            "Word": "browser",
+            "Pronounce": "/ˈbraʊ.zər/",
+            "Meaning": "Trình duyệt",
+            "Example": "Chrome is a popular browser."
+        },
+        {
+            "vocabId": 40,
+            "Topic": "technology ",
+            "Word": "website",
+            "Pronounce": "/ˈweb.saɪt/",
+            "Meaning": "Trang web",
+            "Example": "Visit our website for more info."
+        },
+        {
+            "vocabId": 41,
+            "Topic": "technology ",
+            "Word": "email",
+            "Pronounce": "/ˈiː.meɪl/",
+            "Meaning": "Thư điện tử",
+            "Example": "I sent you an email."
+        },
+        {
+            "vocabId": 42,
+            "Topic": "technology ",
+            "Word": "social media",
+            "Pronounce": "/ˌsəʊ.ʃəl ˈmiː.di.ə/",
+            "Meaning": "Mạng xã hội",
+            "Example": "He spends hours on social media."
+        },
+        {
+            "vocabId": 43,
+            "Topic": "technology ",
+            "Word": "artificial intelligence (AI)",
+            "Pronounce": "/ˌɑː.tɪˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns/",
+            "Meaning": "Trí tuệ nhân tạo",
+            "Example": "AI is used in many phones now."
+        },
+        {
+            "vocabId": 44,
+            "Topic": "technology ",
+            "Word": "internet of things (IoT)",
+            "Pronounce": "/ˈɪn.tə.net əv θɪŋz/",
+            "Meaning": "Internet vạn vật",
+            "Example": "IoT helps devices work together."
+        },
+        {
+            "vocabId": 45,
+            "Topic": "technology ",
+            "Word": "robot",
+            "Pronounce": "/ˈrəʊ.bɒt/",
+            "Meaning": "Rô-bốt",
+            "Example": "This robot can clean the floor."
+        },
+        {
+            "vocabId": 46,
+            "Topic": "airport",
+            "Word": "airport",
+            "Pronounce": "/ˈeə.pɔːt/",
+            "Meaning": "Sân bay",
+            "Example": "We arrived at the airport early."
+        },
+        {
+            "vocabId": 47,
+            "Topic": "airport",
+            "Word": "flight",
+            "Pronounce": "/flaɪt/",
+            "Meaning": "Chuyến bay",
+            "Example": "My flight is at 10 a.m."
+        },
+        {
+            "vocabId": 48,
+            "Topic": "airport",
+            "Word": "ticket",
+            "Pronounce": "/ˈtɪk.ɪt/",
+            "Meaning": "Vé",
+            "Example": "I bought a plane ticket online."
+        },
+        {
+            "vocabId": 49,
+            "Topic": "airport",
+            "Word": "gate",
+            "Pronounce": "/ɡeɪt/",
+            "Meaning": "Cửa ra máy bay",
+            "Example": "Our gate is number 5."
+        },
+        {
+            "vocabId": 50,
+            "Topic": "airport",
+            "Word": "boarding pass",
+            "Pronounce": "/ˈbɔː.dɪŋ ˌpɑːs/",
+            "Meaning": "Thẻ lên máy bay",
+            "Example": "Don’t lose your boarding pass."
+        },
+        {
+            "vocabId": 51,
+            "Topic": "airport",
+            "Word": "check-in",
+            "Pronounce": "/ˈtʃek.ɪn/",
+            "Meaning": "Làm thủ tục",
+            "Example": "We check in at the counter."
+        },
+        {
+            "vocabId": 52,
+            "Topic": "airport",
+            "Word": "baggage",
+            "Pronounce": "/ˈbæɡ.ɪdʒ/",
+            "Meaning": "Hành lý",
+            "Example": "I have two pieces of baggage."
+        },
+        {
+            "vocabId": 53,
+            "Topic": "airport",
+            "Word": "passport",
+            "Pronounce": "/ˈpɑːs.pɔːt/",
+            "Meaning": "Hộ chiếu",
+            "Example": "Show your passport to the officer."
+        },
+        {
+            "vocabId": 54,
+            "Topic": "airport",
+            "Word": "customs",
+            "Pronounce": "/ˈkʌs.təmz/",
+            "Meaning": "Hải quan",
+            "Example": "We passed through customs quickly."
+        },
+        {
+            "vocabId": 55,
+            "Topic": "airport",
+            "Word": "arrival",
+            "Pronounce": "/əˈraɪ.vəl/",
+            "Meaning": "Đến nơi",
+            "Example": "The arrival time is 3 p.m."
+        },
+        {
+            "vocabId": 56,
+            "Topic": "airport",
+            "Word": "departure",
+            "Pronounce": "/dɪˈpɑː.tʃər/",
+            "Meaning": "Khởi hành",
+            "Example": "Our departure is delayed."
+        },
+        {
+            "vocabId": 57,
+            "Topic": "airport",
+            "Word": "terminal",
+            "Pronounce": "/ˈtɜː.mɪ.nəl/",
+            "Meaning": "Nhà ga",
+            "Example": "Go to Terminal 2 for your flight."
+        },
+        {
+            "vocabId": 58,
+            "Topic": "airport",
+            "Word": "security",
+            "Pronounce": "/sɪˈkjʊə.rə.ti/",
+            "Meaning": "An ninh",
+            "Example": "Security checks your bag."
+        },
+        {
+            "vocabId": 59,
+            "Topic": "airport",
+            "Word": "lounge",
+            "Pronounce": "/laʊndʒ/",
+            "Meaning": "Phòng chờ",
+            "Example": "We waited in the lounge."
+        },
+        {
+            "vocabId": 60,
+            "Topic": "airport",
+            "Word": "airline",
+            "Pronounce": "/ˈeə.laɪn/",
+            "Meaning": "Hãng hàng không",
+            "Example": "Which airline do you fly with?"
+        },
+        {
+            "vocabId": 61,
+            "Topic": "shopping",
+            "Word": "buy",
+            "Pronounce": "/baɪ/",
+            "Meaning": "Mua",
+            "Example": "I want to buy a new shirt."
+        },
+        {
+            "vocabId": 62,
+            "Topic": "shopping",
+            "Word": "sell",
+            "Pronounce": "/sel/",
+            "Meaning": "Bán",
+            "Example": "They sell fresh fruit here."
+        },
+        {
+            "vocabId": 63,
+            "Topic": "shopping",
+            "Word": "shop",
+            "Pronounce": "/ʃɒp/",
+            "Meaning": "Cửa hàng",
+            "Example": "She goes to the shop every day."
+        },
+        {
+            "vocabId": 64,
+            "Topic": "shopping",
+            "Word": "supermarket",
+            "Pronounce": "/ˈsuː.pəˌmɑː.kɪt/",
+            "Meaning": "Siêu thị",
+            "Example": "We buy food at the supermarket."
+        },
+        {
+            "vocabId": 65,
+            "Topic": "shopping",
+            "Word": "market",
+            "Pronounce": "/ˈmɑː.kɪt/",
+            "Meaning": "Chợ",
+            "Example": "I bought fish at the market."
+        },
+        {
+            "vocabId": 66,
+            "Topic": "shopping",
+            "Word": "price",
+            "Pronounce": "/praɪs/",
+            "Meaning": "Giá",
+            "Example": "What’s the price of this bag?"
+        },
+        {
+            "vocabId": 67,
+            "Topic": "shopping",
+            "Word": "money",
+            "Pronounce": "/ˈmʌn.i/",
+            "Meaning": "Tiền",
+            "Example": "I don’t have enough money."
+        },
+        {
+            "vocabId": 68,
+            "Topic": "shopping",
+            "Word": "discount",
+            "Pronounce": "/ˈdɪs.kaʊnt/",
+            "Meaning": "Giảm giá",
+            "Example": "This shirt has a 20% discount."
+        },
+        {
+            "vocabId": 69,
+            "Topic": "shopping",
+            "Word": "pay",
+            "Pronounce": "/peɪ/",
+            "Meaning": "Thanh toán",
+            "Example": "I will pay by card."
+        },
+        {
+            "vocabId": 70,
+            "Topic": "shopping",
+            "Word": "goods",
+            "Pronounce": "/ɡʊdz/",
+            "Meaning": "Hàng hóa",
+            "Example": "The store sells many kinds of goods."
+        },
+        {
+            "vocabId": 71,
+            "Topic": "shopping",
+            "Word": "bag",
+            "Pronounce": "/bæɡ/",
+            "Meaning": "Túi",
+            "Example": "She puts the apples in a bag."
+        },
+        {
+            "vocabId": 72,
+            "Topic": "shopping",
+            "Word": "trolley",
+            "Pronounce": "/ˈtrɒl.i/",
+            "Meaning": "Xe đẩy",
+            "Example": "I pushed the trolley in the store."
+        },
+        {
+            "vocabId": 73,
+            "Topic": "shopping",
+            "Word": "staff",
+            "Pronounce": "/stɑːf/",
+            "Meaning": "Nhân viên",
+            "Example": "The staff were very helpful."
+        },
+        {
+            "vocabId": 74,
+            "Topic": "shopping",
+            "Word": "bill",
+            "Pronounce": "/bɪl/",
+            "Meaning": "Hóa đơn",
+            "Example": "Can I have the bill, please?"
+        },
+        {
+            "vocabId": 75,
+            "Topic": "shopping",
+            "Word": "item",
+            "Pronounce": "/ˈaɪ.təm/",
+            "Meaning": "Đồ (vật phẩm)",
+            "Example": "I bought five items today."
+        },
+        {
+            "vocabId": 76,
+            "Topic": "health",
+            "Word": "health",
+            "Pronounce": "/helθ/",
+            "Meaning": "Sức khỏe",
+            "Example": "Good health is very important."
+        },
+        {
+            "vocabId": 77,
+            "Topic": "health",
+            "Word": "healthy",
+            "Pronounce": "/ˈhel.θi/",
+            "Meaning": "Khỏe mạnh",
+            "Example": "She is a healthy person."
+        },
+        {
+            "vocabId": 78,
+            "Topic": "health",
+            "Word": "healthy eating",
+            "Pronounce": "/ˈhel.θi ˈiː.tɪŋ/",
+            "Meaning": "Ăn uống lành mạnh",
+            "Example": "Healthy eating helps you stay fit."
+        },
+        {
+            "vocabId": 79,
+            "Topic": "health",
+            "Word": "exercise",
+            "Pronounce": "/ˈek.sə.saɪz/",
+            "Meaning": "Tập thể dục",
+            "Example": "I exercise every morning."
+        },
+        {
+            "vocabId": 80,
+            "Topic": "health",
+            "Word": "balanced diet",
+            "Pronounce": "/ˈbæl.ənst ˈdaɪ.ət/",
+            "Meaning": "Chế độ ăn uống cân bằng",
+            "Example": "A balanced diet is good for your body."
+        },
+        {
+            "vocabId": 81,
+            "Topic": "health",
+            "Word": "get enough sleep",
+            "Pronounce": "/ɡet ɪˈnʌf sliːp/",
+            "Meaning": "Ngủ đủ giấc",
+            "Example": "You should get enough sleep every night."
+        },
+        {
+            "vocabId": 82,
+            "Topic": "health",
+            "Word": "water",
+            "Pronounce": "/ˈwɔː.tər/",
+            "Meaning": "Nước",
+            "Example": "Drink plenty of water daily."
+        },
+        {
+            "vocabId": 83,
+            "Topic": "health",
+            "Word": "vitamins",
+            "Pronounce": "/ˈvɪt.ə.mɪnz/",
+            "Meaning": "Vitamin",
+            "Example": "Fruits are full of vitamins."
+        },
+        {
+            "vocabId": 84,
+            "Topic": "health",
+            "Word": "minerals",
+            "Pronounce": "/ˈmɪn.ər.əlz/",
+            "Meaning": "Khoáng chất",
+            "Example": "Milk contains important minerals."
+        },
+        {
+            "vocabId": 85,
+            "Topic": "health",
+            "Word": "vegetables",
+            "Pronounce": "/ˈvedʒ.tə.bəlz/",
+            "Meaning": "Rau xanh",
+            "Example": "Eat more green vegetables."
+        },
+        {
+            "vocabId": 86,
+            "Topic": "health",
+            "Word": "fruits",
+            "Pronounce": "/fruːts/",
+            "Meaning": "Trái cây",
+            "Example": "I like to eat fresh fruits."
+        },
+        {
+            "vocabId": 87,
+            "Topic": "health",
+            "Word": "good sleep",
+            "Pronounce": "/ɡʊd sliːp/",
+            "Meaning": "Ngủ ngon",
+            "Example": "Good sleep makes you feel better."
+        },
+        {
+            "vocabId": 88,
+            "Topic": "health",
+            "Word": "physical activity",
+            "Pronounce": "/ˈfɪz.ɪ.kəl ækˈtɪv.ə.ti/",
+            "Meaning": "Hoạt động thể chất",
+            "Example": "Kids need more physical activity."
+        },
+        {
+            "vocabId": 89,
+            "Topic": "health",
+            "Word": "organic food",
+            "Pronounce": "/ɔːˈɡæn.ɪk fuːd/",
+            "Meaning": "Thực phẩm hữu cơ",
+            "Example": "Organic food is healthier."
+        },
+        {
+            "vocabId": 90,
+            "Topic": "health",
+            "Word": "avoid",
+            "Pronounce": "/əˈvɔɪd/",
+            "Meaning": "Tránh xa",
+            "Example": "Avoid junk food and soft drinks."
+        },
+        {
+            "vocabId": 91,
+            "Topic": "education",
+            "Word": "school",
+            "Pronounce": "/skuːl/",
+            "Meaning": "Trường học",
+            "Example": "I go to school every day."
+        },
+        {
+            "vocabId": 92,
+            "Topic": "education",
+            "Word": "classroom",
+            "Pronounce": "/ˈklɑːs.ruːm/",
+            "Meaning": "Lớp học",
+            "Example": "The classroom is very clean."
+        },
+        {
+            "vocabId": 93,
+            "Topic": "education",
+            "Word": "student",
+            "Pronounce": "/ˈstjuː.dənt/",
+            "Meaning": "Học sinh/Sinh viên",
+            "Example": "She is a good student."
+        },
+        {
+            "vocabId": 94,
+            "Topic": "education",
+            "Word": "teacher",
+            "Pronounce": "/ˈtiː.tʃər/",
+            "Meaning": "Giáo viên",
+            "Example": "My teacher is kind."
+        },
+        {
+            "vocabId": 95,
+            "Topic": "education",
+            "Word": "lesson",
+            "Pronounce": "/ˈles.ən/",
+            "Meaning": "Bài học",
+            "Example": "We have a math lesson today."
+        },
+        {
+            "vocabId": 96,
+            "Topic": "education",
+            "Word": "book",
+            "Pronounce": "/bʊk/",
+            "Meaning": "Sách",
+            "Example": "I read a book every night."
+        },
+        {
+            "vocabId": 97,
+            "Topic": "education",
+            "Word": "knowledge",
+            "Pronounce": "/ˈnɒ.lɪdʒ/",
+            "Meaning": "Kiến thức",
+            "Example": "Reading gives you more knowledge."
+        },
+        {
+            "vocabId": 98,
+            "Topic": "education",
+            "Word": "learning",
+            "Pronounce": "/ˈlɜː.nɪŋ/",
+            "Meaning": "Học tập",
+            "Example": "Learning is a lifelong journey."
+        },
+        {
+            "vocabId": 99,
+            "Topic": "education",
+            "Word": "grade",
+            "Pronounce": "/ɡreɪd/",
+            "Meaning": "Điểm số",
+            "Example": "She got a good grade in English."
+        },
+        {
+            "vocabId": 100,
+            "Topic": "education",
+            "Word": "university",
+            "Pronounce": "/ˌjuː.nɪˈvɜː.sə.ti/",
+            "Meaning": "Trường đại học",
+            "Example": "He studies at the university."
+        },
+        {
+            "vocabId": 101,
+            "Topic": "education",
+            "Word": "curriculum",
+            "Pronounce": "/kəˈrɪk.jə.ləm/",
+            "Meaning": "Chương trình học",
+            "Example": "The curriculum is very practical."
+        },
+        {
+            "vocabId": 102,
+            "Topic": "education",
+            "Word": "degree",
+            "Pronounce": "/dɪˈɡriː/",
+            "Meaning": "Bằng cấp",
+            "Example": "I want to get a degree in science."
+        },
+        {
+            "vocabId": 103,
+            "Topic": "education",
+            "Word": "exam",
+            "Pronounce": "/ɪɡˈzæm/",
+            "Meaning": "Bài kiểm tra",
+            "Example": "We have an exam next week."
+        },
+        {
+            "vocabId": 104,
+            "Topic": "education",
+            "Word": "library",
+            "Pronounce": "/ˈlaɪ.brər.i/",
+            "Meaning": "Thư viện",
+            "Example": "I study in the library."
+        },
+        {
+            "vocabId": 105,
+            "Topic": "education",
+            "Word": "lecture",
+            "Pronounce": "/ˈlek.tʃər/",
+            "Meaning": "Bài giảng",
+            "Example": "The lecture was very interesting."
+        },
+        {
+            "vocabId": 106,
+            "Topic": "jobs",
+            "Word": "teacher",
+            "Pronounce": "/ˈtiː.tʃər/",
+            "Meaning": "Giáo viên",
+            "Example": "My sister is a teacher."
+        },
+        {
+            "vocabId": 107,
+            "Topic": "jobs",
+            "Word": "doctor",
+            "Pronounce": "/ˈdɒk.tər/",
+            "Meaning": "Bác sĩ",
+            "Example": "The doctor works at the hospital."
+        },
+        {
+            "vocabId": 108,
+            "Topic": "jobs",
+            "Word": "nurse",
+            "Pronounce": "/nɜːs/",
+            "Meaning": "Y tá",
+            "Example": "The nurse is very kind."
+        },
+        {
+            "vocabId": 109,
+            "Topic": "jobs",
+            "Word": "engineer",
+            "Pronounce": "/ˌen.dʒɪˈnɪər/",
+            "Meaning": "Kỹ sư",
+            "Example": "My uncle is an engineer."
+        },
+        {
+            "vocabId": 110,
+            "Topic": "jobs",
+            "Word": "accountant",
+            "Pronounce": "/əˈkaʊn.tənt/",
+            "Meaning": "Kế toán",
+            "Example": "She works as an accountant."
+        },
+        {
+            "vocabId": 111,
+            "Topic": "jobs",
+            "Word": "farmer",
+            "Pronounce": "/ˈfɑː.mər/",
+            "Meaning": "Nông dân",
+            "Example": "The farmer grows rice."
+        },
+        {
+            "vocabId": 112,
+            "Topic": "jobs",
+            "Word": "baker",
+            "Pronounce": "/ˈbeɪ.kər/",
+            "Meaning": "Thợ làm bánh",
+            "Example": "The baker makes bread."
+        },
+        {
+            "vocabId": 113,
+            "Topic": "jobs",
+            "Word": "chef",
+            "Pronounce": "/ʃef/",
+            "Meaning": "Đầu bếp",
+            "Example": "He is a chef in a big hotel."
+        },
+        {
+            "vocabId": 114,
+            "Topic": "jobs",
+            "Word": "cashier",
+            "Pronounce": "/kæˈʃɪər/",
+            "Meaning": "Thu ngân",
+            "Example": "The cashier works in the store."
+        },
+        {
+            "vocabId": 115,
+            "Topic": "jobs",
+            "Word": "driver",
+            "Pronounce": "/ˈdraɪ.vər/",
+            "Meaning": "Lái xe",
+            "Example": "My father is a bus driver."
+        },
+        {
+            "vocabId": 116,
+            "Topic": "jobs",
+            "Word": "electrician",
+            "Pronounce": "/ɪˌlekˈtrɪʃ.ən/",
+            "Meaning": "Thợ điện",
+            "Example": "We need an electrician."
+        },
+        {
+            "vocabId": 117,
+            "Topic": "jobs",
+            "Word": "carpenter",
+            "Pronounce": "/ˈkɑː.pən.tər/",
+            "Meaning": "Thợ mộc",
+            "Example": "The carpenter made a new table."
+        },
+        {
+            "vocabId": 118,
+            "Topic": "jobs",
+            "Word": "builder",
+            "Pronounce": "/ˈbɪl.dər/",
+            "Meaning": "Thợ xây",
+            "Example": "The builder is building a house."
+        },
+        {
+            "vocabId": 119,
+            "Topic": "jobs",
+            "Word": "cleaner",
+            "Pronounce": "/ˈkliː.nər/",
+            "Meaning": "Lao công",
+            "Example": "The cleaner cleans the floor."
+        },
+        {
+            "vocabId": 120,
+            "Topic": "jobs",
+            "Word": "artist",
+            "Pronounce": "/ˈɑː.tɪst/",
+            "Meaning": "Họa sĩ",
+            "Example": "The artist paints beautiful art."
+        },
+        {
+            "vocabId": 121,
+            "Topic": "weather",
+            "Word": "rain",
+            "Pronounce": "/reɪn/",
+            "Meaning": "Mưa",
+            "Example": "It is raining outside."
+        },
+        {
+            "vocabId": 122,
+            "Topic": "weather",
+            "Word": "sun",
+            "Pronounce": "/sʌn/",
+            "Meaning": "Nắng",
+            "Example": "The sun is very bright today."
+        },
+        {
+            "vocabId": 123,
+            "Topic": "weather",
+            "Word": "wind",
+            "Pronounce": "/wɪnd/",
+            "Meaning": "Gió",
+            "Example": "The wind is blowing strongly."
+        },
+        {
+            "vocabId": 124,
+            "Topic": "weather",
+            "Word": "cloud",
+            "Pronounce": "/klaʊd/",
+            "Meaning": "Mây",
+            "Example": "There are many clouds in the sky."
+        },
+        {
+            "vocabId": 125,
+            "Topic": "weather",
+            "Word": "storm",
+            "Pronounce": "/stɔːm/",
+            "Meaning": "Bão",
+            "Example": "A big storm is coming."
+        },
+        {
+            "vocabId": 126,
+            "Topic": "weather",
+            "Word": "snow",
+            "Pronounce": "/snəʊ/",
+            "Meaning": "Tuyết",
+            "Example": "It is snowing in the mountains."
+        },
+        {
+            "vocabId": 127,
+            "Topic": "weather",
+            "Word": "fog",
+            "Pronounce": "/fɒɡ/",
+            "Meaning": "Sương mù",
+            "Example": "The fog is very thick today."
+        },
+        {
+            "vocabId": 128,
+            "Topic": "weather",
+            "Word": "cold",
+            "Pronounce": "/kəʊld/",
+            "Meaning": "Lạnh",
+            "Example": "It is cold in winter."
+        },
+        {
+            "vocabId": 129,
+            "Topic": "weather",
+            "Word": "hot",
+            "Pronounce": "/hɒt/",
+            "Meaning": "Nóng",
+            "Example": "It is hot in summer."
+        },
+        {
+            "vocabId": 130,
+            "Topic": "weather",
+            "Word": "humid",
+            "Pronounce": "/ˈhjuː.mɪd/",
+            "Meaning": "Ẩm",
+            "Example": "It is very humid today."
+        },
+        {
+            "vocabId": 131,
+            "Topic": "weather",
+            "Word": "dry",
+            "Pronounce": "/draɪ/",
+            "Meaning": "Khô",
+            "Example": "The weather is dry and sunny."
+        },
+        {
+            "vocabId": 132,
+            "Topic": "weather",
+            "Word": "shower",
+            "Pronounce": "/ˈʃaʊ.ər/",
+            "Meaning": "Mưa rào",
+            "Example": "There was a short shower at noon."
+        },
+        {
+            "vocabId": 133,
+            "Topic": "weather",
+            "Word": "rainbow",
+            "Pronounce": "/ˈreɪn.bəʊ/",
+            "Meaning": "Cầu vồng",
+            "Example": "I saw a rainbow after the rain."
+        },
+        {
+            "vocabId": 134,
+            "Topic": "weather",
+            "Word": "thunder",
+            "Pronounce": "/ˈθʌn.dər/",
+            "Meaning": "Sấm",
+            "Example": "I heard thunder last night."
+        },
+        {
+            "vocabId": 135,
+            "Topic": "weather",
+            "Word": "lightning",
+            "Pronounce": "/ˈlaɪt.nɪŋ/",
+            "Meaning": "Chớp",
+            "Example": "Lightning flashed across the sky."
+        },
+        {
+            "vocabId": 136,
+            "Topic": "environment",
+            "Word": "environment",
+            "Pronounce": "/ɪnˈvaɪ.rən.mənt/",
+            "Meaning": "Môi trường",
+            "Example": "We must protect the environment."
+        },
+        {
+            "vocabId": 137,
+            "Topic": "environment",
+            "Word": "pollution",
+            "Pronounce": "/pəˈluː.ʃən/",
+            "Meaning": "Ô nhiễm",
+            "Example": "Pollution is a big problem today."
+        },
+        {
+            "vocabId": 138,
+            "Topic": "environment",
+            "Word": "recycle",
+            "Pronounce": "/ˌriːˈsaɪ.kəl/",
+            "Meaning": "Tái chế",
+            "Example": " We should recycle plastic bottles."
+        },
+        {
+            "vocabId": 139,
+            "Topic": "environment",
+            "Word": "pollute",
+            "Pronounce": "/pəˈluːt/",
+            "Meaning": "Gây ô nhiễm",
+            "Example": "Factories pollute the air."
+        },
+        {
+            "vocabId": 140,
+            "Topic": "environment",
+            "Word": "eco-friendly",
+            "Pronounce": "/ˌiː.kəʊˈfrend.li/",
+            "Meaning": "Thân thiện với môi trường",
+            "Example": "We use eco-friendly bags."
+        },
+        {
+            "vocabId": 141,
+            "Topic": "environment",
+            "Word": "biodiversity",
+            "Pronounce": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+            "Meaning": "Đa dạng sinh học",
+            "Example": "The forest has rich biodiversity."
+        },
+        {
+            "vocabId": 142,
+            "Topic": "environment",
+            "Word": "waste",
+            "Pronounce": "/weɪst/",
+            "Meaning": "Rác thải",
+            "Example": " Don't throw waste into the river."
+        },
+        {
+            "vocabId": 143,
+            "Topic": "environment",
+            "Word": "sustainable",
+            "Pronounce": "/səˈsteɪ.nə.bəl/",
+            "Meaning": "Bền vững",
+            "Example": "We need sustainable energy sources."
+        },
+        {
+            "vocabId": 144,
+            "Topic": "environment",
+            "Word": "toxic",
+            "Pronounce": "/ˈtɒk.sɪk/",
+            "Meaning": "Độc hại",
+            "Example": "This water is toxic."
+        },
+        {
+            "vocabId": 145,
+            "Topic": " environment",
+            "Word": "contaminate",
+            "Pronounce": "/kənˈtæm.ɪ.neɪt/",
+            "Meaning": "Làm nhiễm bẩn",
+            "Example": "Chemicals can contaminate water."
+        },
+        {
+            "vocabId": 146,
+            "Topic": "environment",
+            "Word": "air pollution",
+            "Pronounce": "/eə pəˈluː.ʃən/",
+            "Meaning": "Ô nhiễm không khí",
+            "Example": "Air pollution affects our health."
+        },
+        {
+            "vocabId": 147,
+            "Topic": "environment",
+            "Word": "protect",
+            "Pronounce": "/prəˈtekt/",
+            "Meaning": "Bảo vệ",
+            "Example": "We must protect endangered animals."
+        },
+        {
+            "vocabId": 148,
+            "Topic": "environment",
+            "Word": "greenhouse effect",
+            "Pronounce": "/ˈɡriːn.haʊs ɪˌfekt/",
+            "Meaning": "Hiệu ứng nhà kính",
+            "Example": "The greenhouse effect warms the Earth."
+        },
+        {
+            "vocabId": 149,
+            "Topic": "environment",
+            "Word": "contaminated",
+            "Pronounce": "/kənˈtæm.ɪ.neɪ.tɪd/",
+            "Meaning": "Bị nhiễm bẩn",
+            "Example": "The river is contaminated."
+        },
+        {
+            "vocabId": 150,
+            "Topic": "environment",
+            "Word": "conserve",
+            "Pronounce": "/kənˈsɜːv/",
+            "Meaning": "Bảo tồn",
+            "Example": "We should conserve water and energy."
+        }
+]

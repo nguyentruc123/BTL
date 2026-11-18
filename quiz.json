@@ -1,0 +1,302 @@
+[
+  {
+    "userId": 1,
+    "topic": "Daily",
+    "score": 5,
+    "totalQuestions": 15,
+    "correctAnswers": 5,
+    "wrongAnswers": 10,
+    "timestamp": "2025-06-10 18:00:54",
+    "durationSeconds": 210
+  },
+  {
+    "userId": 1,
+    "topic": "Emotions",
+    "score": 6,
+    "totalQuestions": 15,
+    "correctAnswers": 6,
+    "wrongAnswers": 9,
+    "timestamp": "2025-06-11 09:55:39",
+    "durationSeconds": 255
+  },
+  {
+    "userId": 1,
+    "topic": "Technology",
+    "score": 3,
+    "totalQuestions": 15,
+    "correctAnswers": 3,
+    "wrongAnswers": 12,
+    "timestamp": "2025-06-12 14:00:03",
+    "durationSeconds": 33
+  },
+  {
+    "userId": 1,
+    "topic": "Airport",
+    "score": 10,
+    "totalQuestions": 15,
+    "correctAnswers": 10,
+    "wrongAnswers": 5,
+    "timestamp": "2025-06-13 20:54:00",
+    "durationSeconds": 138
+  },
+  {
+    "userId": 1,
+    "topic": "Shopping",
+    "score": 15,
+    "totalQuestions": 15,
+    "correctAnswers": 15,
+    "wrongAnswers": 0,
+    "timestamp": "2025-06-14 10:33:21",
+    "durationSeconds": 152
+  },
+  {
+    "userId": 1,
+    "topic": "Health",
+    "score": 14,
+    "totalQuestions": 15,
+    "correctAnswers": 14,
+    "wrongAnswers": 1,
+    "timestamp": "2025-06-15 15:03:23",
+    "durationSeconds": 235
+  },
+  {
+    "userId": 1,
+    "topic": "Education",
+    "score": 9,
+    "totalQuestions": 15,
+    "correctAnswers": 9,
+    "wrongAnswers": 6,
+    "timestamp": "2025-06-16 16:34:49",
+    "durationSeconds": 65
+  },
+  {
+    "userId": 1,
+    "topic": "Jobs",
+    "score": 11,
+    "totalQuestions": 15,
+    "correctAnswers": 11,
+    "wrongAnswers": 4,
+    "timestamp": "2025-06-17 11:47:20",
+    "durationSeconds": 262
+  },
+  {
+    "userId": 1,
+    "topic": "Weather",
+    "score": 7,
+    "totalQuestions": 15,
+    "correctAnswers": 7,
+    "wrongAnswers": 8,
+    "timestamp": "2025-06-18 12:04:41",
+    "durationSeconds": 201
+  },
+  {
+    "userId": 1,
+    "topic": "Environment",
+    "score": 10,
+    "totalQuestions": 15,
+    "correctAnswers": 10,
+    "wrongAnswers": 5,
+    "timestamp": "2025-06-19 11:14:12",
+    "durationSeconds": 34
+  },
+  {
+    "userId": 2,
+    "topic": "Daily",
+    "score": 3,
+    "totalQuestions": 15,
+    "correctAnswers": 3,
+    "wrongAnswers": 12,
+    "timestamp": "2025-06-10 16:13:01",
+    "durationSeconds": 52
+  },
+  {
+    "userId": 2,
+    "topic": "Emotions",
+    "score": 4,
+    "totalQuestions": 15,
+    "correctAnswers": 4,
+    "wrongAnswers": 11,
+    "timestamp": "2025-06-11 20:24:08",
+    "durationSeconds": 261
+  },
+  {
+    "userId": 2,
+    "topic": "Technology",
+    "score": 15,
+    "totalQuestions": 15,
+    "correctAnswers": 15,
+    "wrongAnswers": 0,
+    "timestamp": "2025-06-12 08:13:51",
+    "durationSeconds": 41
+  },
+  {
+    "userId": 2,
+    "topic": "Airport",
+    "score": 10,
+    "totalQuestions": 15,
+    "correctAnswers": 10,
+    "wrongAnswers": 5,
+    "timestamp": "2025-06-13 18:33:31",
+    "durationSeconds": 90
+  },
+  {
+    "userId": 2,
+    "topic": "Shopping",
+    "score": 10,
+    "totalQuestions": 15,
+    "correctAnswers": 10,
+    "wrongAnswers": 5,
+    "timestamp": "2025-06-14 16:09:00",
+    "durationSeconds": 283
+  },
+  {
+    "userId": 2,
+    "topic": "Health",
+    "score": 1,
+    "totalQuestions": 15,
+    "correctAnswers": 1,
+    "wrongAnswers": 14,
+    "timestamp": "2025-06-15 19:07:15",
+    "durationSeconds": 37
+  },
+  {
+    "userId": 2,
+    "topic": "Education",
+    "score": 3,
+    "totalQuestions": 15,
+    "correctAnswers": 3,
+    "wrongAnswers": 12,
+    "timestamp": "2025-06-16 16:17:38",
+    "durationSeconds": 74
+  },
+  {
+    "userId": 2,
+    "topic": "Jobs",
+    "score": 7,
+    "totalQuestions": 15,
+    "correctAnswers": 7,
+    "wrongAnswers": 8,
+    "timestamp": "2025-06-17 20:44:41",
+    "durationSeconds": 109
+  },
+  {
+    "userId": 2,
+    "topic": "Weather",
+    "score": 0,
+    "totalQuestions": 15,
+    "correctAnswers": 0,
+    "wrongAnswers": 15,
+    "timestamp": "2025-06-18 20:12:03",
+    "durationSeconds": 237
+  },
+  {
+    "userId": 2,
+    "topic": "Environment",
+    "score": 8,
+    "totalQuestions": 15,
+    "correctAnswers": 8,
+    "wrongAnswers": 7,
+    "timestamp": "2025-06-19 11:07:43",
+    "durationSeconds": 180
+  },
+  {
+    "userId": 3,
+    "topic": "Daily",
+    "score": 5,
+    "totalQuestions": 15,
+    "correctAnswers": 5,
+    "wrongAnswers": 10,
+    "timestamp": "2025-06-10 14:16:18",
+    "durationSeconds": 152
+  },
+  {
+    "userId": 3,
+    "topic": "Emotions",
+    "score": 1,
+    "totalQuestions": 15,
+    "correctAnswers": 1,
+    "wrongAnswers": 14,
+    "timestamp": "2025-06-11 14:17:18",
+    "durationSeconds": 188
+  },
+  {
+    "userId": 3,
+    "topic": "Technology",
+    "score": 6,
+    "totalQuestions": 15,
+    "correctAnswers": 6,
+    "wrongAnswers": 9,
+    "timestamp": "2025-06-12 20:01:56",
+    "durationSeconds": 283
+  },
+  {
+    "userId": 3,
+    "topic": "Airport",
+    "score": 14,
+    "totalQuestions": 15,
+    "correctAnswers": 14,
+    "wrongAnswers": 1,
+    "timestamp": "2025-06-13 18:11:15",
+    "durationSeconds": 283
+  },
+  {
+    "userId": 3,
+    "topic": "Shopping",
+    "score": 5,
+    "totalQuestions": 15,
+    "correctAnswers": 5,
+    "wrongAnswers": 10,
+    "timestamp": "2025-06-14 16:19:12",
+    "durationSeconds": 186
+  },
+  {
+    "userId": 3,
+    "topic": "Health",
+    "score": 6,
+    "totalQuestions": 15,
+    "correctAnswers": 6,
+    "wrongAnswers": 9,
+    "timestamp": "2025-06-15 11:49:55",
+    "durationSeconds": 164
+  },
+  {
+    "userId": 3,
+    "topic": "Education",
+    "score": 1,
+    "totalQuestions": 15,
+    "correctAnswers": 1,
+    "wrongAnswers": 14,
+    "timestamp": "2025-06-16 18:41:21",
+    "durationSeconds": 165
+  },
+  {
+    "userId": 3,
+    "topic": "Jobs",
+    "score": 5,
+    "totalQuestions": 15,
+    "correctAnswers": 5,
+    "wrongAnswers": 10,
+    "timestamp": "2025-06-17 14:53:28",
+    "durationSeconds": 80
+  },
+  {
+    "userId": 3,
+    "topic": "Weather",
+    "score": 15,
+    "totalQuestions": 15,
+    "correctAnswers": 15,
+    "wrongAnswers": 0,
+    "timestamp": "2025-06-18 17:10:42",
+    "durationSeconds": 41
+  },
+  {
+    "userId": 3,
+    "topic": "Environment",
+    "score": 15,
+    "totalQuestions": 15,
+    "correctAnswers": 15,
+    "wrongAnswers": 0,
+    "timestamp": "2025-06-19 15:24:08",
+    "durationSeconds": 123
+  }
+]

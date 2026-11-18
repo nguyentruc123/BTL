@@ -1,0 +1,54 @@
+{
+  "topics": {
+    "daily": {
+      "topicId": "daily",
+      "title": "Daily",
+      "description": "Các hoạt động hằng ngày"
+    },
+    "emotions": {
+      "topicId": "emotions",
+      "title": "Emotions",
+      "description": "Trạng thái cảm xúc"
+    },
+    "technology": {
+      "topicId": "technology",
+      "title": "Technology",
+      "description": "Chủ đề về công nghệ"
+    },
+    "airport": {
+      "topicId": "airport",
+      "title": "Airport",
+      "description": "Từ vựng tại sân bay"
+    },
+    "shopping": {
+      "topicId": "shopping",
+      "title": "Shopping",
+      "description": "Từ vựng khi mua sắm"
+    },
+    "health": {
+      "topicId": "health",
+      "title": "Health",
+      "description": "Từ vựng liên quan sức khỏe"
+    },
+    "education": {
+      "topicId": "education",
+      "title": "Education",
+      "description": "Từ vựng giáo dục"
+    },
+    "jobs": {
+      "topicId": "jobs",
+      "title": "Jobs",
+      "description": "Công việc và nghề nghiệp"
+    },
+    "weather": {
+      "topicId": "weather",
+      "title": "Weather",
+      "description": "Thời tiết và khí hậu"
+    },
+    "environment": {
+      "topicId": "environment",
+      "title": "Environment",
+      "description": "Môi trường tự nhiên"
+    }
+  }
+}
